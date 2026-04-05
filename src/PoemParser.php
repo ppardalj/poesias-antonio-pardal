@@ -23,7 +23,7 @@ class PoemParser
         $xpath = new DOMXPath($dom);
 
         $title = $this->extractTitle($xpath);
-        $date = $this->extractDate();
+        $date = $this->extractDate($xpath);
         $poemBlocks = $this->extractPoemText($dom, $xpath);
 
         $output = $this->computeFrontMatter($title, $date);
@@ -42,15 +42,29 @@ class PoemParser
         $titleNode = $xpath->query('//title')->item(0);
         $title = $titleNode ? trim($titleNode->nodeValue) : 'Sin título';
 
-        // Intentar sacar el título del primer <strong> dentro de un <p align="center"> si el del title es genérico
-        $firstStrong = $xpath->query('//p[@align="center"]//strong')->item(0);
-        if ($firstStrong && mb_strlen(trim($firstStrong->nodeValue)) < 50) {
-            $title = trim($firstStrong->nodeValue);
+        // Intentar sacar el título de un <font size="6"> o similar si el del title es genérico
+        $fontTitle = $xpath->query('//p[@align="center"]//font[@size="6"]|//p[@align="center" and @class="Estilo1"]//font')->item(0);
+        if ($fontTitle) {
+            $title = trim($fontTitle->nodeValue);
+        }
+
+        // Intentar sacar el título del primer <strong> dentro de un <p align="center"> si el del title es genérico o no se encontró el font
+        if (!$fontTitle || empty($title)) {
+            $firstStrong = $xpath->query('//p[@align="center"]//strong')->item(0);
+            if ($firstStrong && mb_strlen(trim($firstStrong->nodeValue)) < 50) {
+                $title = trim($firstStrong->nodeValue);
+            }
         }
 
         // Limpiar el título si contiene prefijos comunes o puntos finales
         $title = preg_replace('/^Poesias Antonio Pardal\s*-\s*/i', '', $title);
         $title = rtrim($title, '.');
+
+        // Normalizar espacios en blanco (convertir todos los \n, \r, \t y múltiples espacios en un solo espacio)
+        $title = preg_replace('/\s+/', ' ', $title);
+
+        // Convertir a MAYÚSCULAS
+        $title = mb_strtoupper($title, 'UTF-8');
 
         return $title;
     }
@@ -58,9 +72,28 @@ class PoemParser
     /**
      * Extrae la fecha en formato ISO 8601.
      */
-    private function extractDate(): string
+    private function extractDate(DOMXPath $xpath): ?string
     {
-        return date('c');
+        // Buscar fechas en párrafos. Ejemplo: Antonio Pardal Rivas 9-7-2012 o 17-12-07
+        $nodes = $xpath->query('//p');
+        foreach ($nodes as $node) {
+            $text = trim($node->nodeValue);
+            // Buscar patrón de fecha (día-mes-año) con año de 2 o 4 dígitos
+            if (preg_match('/(\d{1,2})-(\d{1,2})-(\d{2,4})/', $text, $matches)) {
+                $day = (int)$matches[1];
+                $month = (int)$matches[2];
+                $year = (int)$matches[3];
+
+                if ($year < 100) {
+                    $year += 2000;
+                }
+
+                // Formatear a ISO (YYYY-MM-DD)
+                return sprintf('%04d-%02d-%02d', $year, $month, $day);
+            }
+        }
+
+        return null;
     }
 
     /**
@@ -121,11 +154,13 @@ class PoemParser
     /**
      * Computa el Front Matter.
      */
-    private function computeFrontMatter(string $title, string $date): string
+    private function computeFrontMatter(string $title, ?string $date): string
     {
         $output = "---\n";
         $output .= "title: \"$title\"\n";
-        $output .= "date: $date\n";
+        if ($date) {
+            $output .= "date: $date\n";
+        }
         $output .= "---\n\n";
 
         return $output;

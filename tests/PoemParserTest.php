@@ -19,7 +19,7 @@ class PoemParserTest extends TestCase
         $html = "<html><head><title>Test Poem</title></head><body></body></html>";
         $output = $this->parser->parse($html);
         
-        $this->assertStringContainsString('title: "Test Poem"', $output);
+        $this->assertStringContainsString('title: "TEST POEM"', $output);
     }
 
     public function testParseTitleFromStrongTag(): void
@@ -29,7 +29,7 @@ class PoemParserTest extends TestCase
         </body></html>';
         $output = $this->parser->parse($html);
         
-        $this->assertStringContainsString('title: "Real Title"', $output);
+        $this->assertStringContainsString('title: "REAL TITLE"', $output);
     }
 
     public function testCleanTitlePrefixAndPeriod(): void
@@ -37,16 +37,48 @@ class PoemParserTest extends TestCase
         $html = '<html><head><title>Poesias Antonio Pardal - My Poem.</title></head><body></body></html>';
         $output = $this->parser->parse($html);
         
-        $this->assertStringContainsString('title: "My Poem"', $output);
+        $this->assertStringContainsString('title: "MY POEM"', $output);
     }
 
-    public function testFrontMatterContainsIsoDate(): void
+    public function testFrontMatterDoesNotContainDateIfMissing(): void
     {
         $html = "<html><head><title>Title</title></head><body></body></html>";
         $output = $this->parser->parse($html);
         
-        // Regex for ISO 8601 date (simplified)
-        $this->assertMatchesRegularExpression('/date: \d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}/', $output);
+        $this->assertStringNotContainsString('date:', $output);
+    }
+
+    public function testParseDateFromParagraph(): void
+    {
+        $html = '<html><body><p>Antonio Pardal Rivas 9-7-2012</p></body></html>';
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString('date: 2012-07-09', $output);
+    }
+
+    public function testParseDateWithTwoDigitYear(): void
+    {
+        $html = '<html><body><p>17-12-07</p></body></html>';
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString('date: 2007-12-17', $output);
+    }
+
+    public function testParseTitleFromEstilo1Class(): void
+    {
+        $html = '<html><body><p align="center" class="Estilo1"><font color="#FFFFCC">Flor de loto</font></p></body></html>';
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString('title: "FLOR DE LOTO"', $output);
+    }
+
+    public function testParseTitleNormalizesWhitespace(): void
+    {
+        $html = '<html><body><p align="center" class="Estilo1"><font color="#FFFFCC">Canci&oacute;n 
+          de la Tierra</font></p></body></html>';
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString('title: "CANCIÓN DE LA TIERRA"', $output);
     }
 
     public function testVersesSeparatedByBrNoBlankLines(): void
