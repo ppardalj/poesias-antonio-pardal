@@ -1,7 +1,7 @@
 ---
 id: 282
-title: "POESIAS ANTONIO PARDAL"
-slug: 282-poesias-antonio-pardal
+title: "MUJER"
+slug: 282-mujer
 date: 2007-06-11
 ---
 

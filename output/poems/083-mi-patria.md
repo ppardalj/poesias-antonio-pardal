@@ -1,6 +1,6 @@
 ---
 id: 083
-title: "¿MI PATRIA...?"
+title: "¿MI PATRIA?"
 slug: 083-mi-patria
 ---
 

@@ -48,9 +48,10 @@ class PoemParser
      *
      * @param string $html Contenido HTML del poema.
      * @param string|null $id ID del poema (ej. nombre del archivo).
+     * @param string|null $title Título del poema (si se proporciona, se usa en lugar de extraerlo).
      * @return string Poema formateado con Front Matter.
      */
-    public function parse(string $html, ?string $id = null): string
+    public function parse(string $html, ?string $id = null, ?string $title = null): string
     {
         libxml_use_internal_errors(true); // evitar warnings por HTML roto
 
@@ -59,7 +60,12 @@ class PoemParser
 
         $xpath = new DOMXPath($dom);
 
-        $title = $this->extractTitle($xpath);
+        if ($title === null) {
+            $title = $this->extractTitle($xpath);
+        } else {
+            // Asegurarse de que el título proporcionado esté en MAYÚSCULAS y limpio
+            $title = mb_strtoupper(trim($title), 'UTF-8');
+        }
         
         $formattedId = self::formatId($id);
         $slug = self::generateSlug($title, $formattedId);

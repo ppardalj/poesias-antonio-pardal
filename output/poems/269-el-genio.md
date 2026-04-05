@@ -1,7 +1,7 @@
 ---
 id: 269
-title: "POESIAS ANTONIO PARDAL"
-slug: 269-poesias-antonio-pardal
+title: "EL GENIO"
+slug: 269-el-genio
 date: 2007-04-29
 ---
 

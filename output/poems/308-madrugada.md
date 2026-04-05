@@ -1,7 +1,7 @@
 ---
 id: 308
-title: "POESIAS ANTONIO PARDAL"
-slug: 308-poesias-antonio-pardal
+title: "MADRUGADA"
+slug: 308-madrugada
 date: 2007-09-10
 ---
 

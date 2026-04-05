@@ -1,7 +1,7 @@
 ---
 id: 280
-title: "POESIAS ANTONIO PARDAL"
-slug: 280-poesias-antonio-pardal
+title: "LA DUDA"
+slug: 280-la-duda
 date: 2007-06-04
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 286
-title: "POESIAS ANTONIO PARDAL"
-slug: 286-poesias-antonio-pardal
+title: "CARIDAD"
+slug: 286-caridad
 date: 2007-06-19
 ---
 

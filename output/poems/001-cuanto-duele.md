@@ -1,6 +1,6 @@
 ---
 id: 001
-title: "¡¡CUÁNTO DUELE!!"
+title: "¡CUÁNTO DUELE!"
 slug: 001-cuanto-duele
 ---
 

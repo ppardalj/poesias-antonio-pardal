@@ -1,7 +1,7 @@
 ---
 id: 091
-title: "VIOLENCIA DE GÉNERO - II"
-slug: 091-violencia-de-genero-ii
+title: "VIOLENCIA DE GÉNERO 2"
+slug: 091-violencia-de-genero-2
 ---
 
 ¿Por qué lo hiciste, papá?

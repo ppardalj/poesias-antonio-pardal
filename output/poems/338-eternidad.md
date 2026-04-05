@@ -1,7 +1,7 @@
 ---
 id: 338
-title: "POESIAS ANTONIO PARDAL"
-slug: 338-poesias-antonio-pardal
+title: "ETERNIDAD"
+slug: 338-eternidad
 date: 2007-12-27
 ---
 

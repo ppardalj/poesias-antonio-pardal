@@ -1,7 +1,7 @@
 ---
 id: 261
-title: ""
-slug: 261-
+title: "UNIVERSO"
+slug: 261-universo
 date: 2007-04-10
 ---
 

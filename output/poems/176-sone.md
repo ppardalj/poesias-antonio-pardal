@@ -1,7 +1,7 @@
 ---
 id: 176
-title: "SUEÑOS"
-slug: 176-suenos
+title: "SONE"
+slug: 176-sone
 ---
 
 Sueña con el que siempre has deseado,

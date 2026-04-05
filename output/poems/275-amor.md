@@ -1,7 +1,7 @@
 ---
 id: 275
-title: "POESIAS ANTONIO PARDAL"
-slug: 275-poesias-antonio-pardal
+title: "AMOR"
+slug: 275-amor
 date: 2007-05-17
 ---
 

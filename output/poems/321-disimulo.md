@@ -1,7 +1,7 @@
 ---
 id: 321
-title: "POESIAS ANTONIO PARDAL"
-slug: 321-poesias-antonio-pardal
+title: "DISIMULO"
+slug: 321-disimulo
 date: 2007-10-29
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 061
-title: "POESIAS ANTONIO PARDAL"
-slug: 061-poesias-antonio-pardal
+title: "ESTRELLAS FUGACES"
+slug: 061-estrellas-fugaces
 ---
 
 Cruzan raudas por el cielo

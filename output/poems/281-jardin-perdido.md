@@ -1,7 +1,7 @@
 ---
 id: 281
-title: "POESIAS ANTONIO PARDAL"
-slug: 281-poesias-antonio-pardal
+title: "JARDÍN PERDIDO"
+slug: 281-jardin-perdido
 date: 2007-06-07
 ---
 

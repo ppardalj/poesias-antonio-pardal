@@ -1,7 +1,7 @@
 ---
 id: 056
-title: "POESIAS ANTONIO PARDAL"
-slug: 056-poesias-antonio-pardal
+title: "TUS MANOS"
+slug: 056-tus-manos
 ---
 
 Manos que acarician tiernas

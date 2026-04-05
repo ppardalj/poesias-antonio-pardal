@@ -1,7 +1,7 @@
 ---
 id: 340
-title: "POESIAS ANTONIO PARDAL"
-slug: 340-poesias-antonio-pardal
+title: "SAUDADE"
+slug: 340-saudade
 date: 2008-01-09
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 325
-title: "POESIAS ANTONIO PARDAL"
-slug: 325-poesias-antonio-pardal
+title: "PUERTAS AL CAMPO"
+slug: 325-puertas-al-campo
 date: 2007-11-06
 ---
 

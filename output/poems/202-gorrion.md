@@ -1,7 +1,7 @@
 ---
 id: 202
-title: "GORRIÓN. EN GAITA GALLEGA"
-slug: 202-gorrion-en-gaita-gallega
+title: "GORRIÓN"
+slug: 202-gorrion
 ---
 
 Oh, gorrioncillo que, humilde, gorjeas

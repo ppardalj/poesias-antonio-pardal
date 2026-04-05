@@ -1,7 +1,7 @@
 ---
 id: 127
-title: "PARA VICTORIA, MI ANGEL"
-slug: 127-para-victoria-mi-angel
+title: "A VICTORIA, MI ANGEL"
+slug: 127-a-victoria-mi-angel
 ---
 
 

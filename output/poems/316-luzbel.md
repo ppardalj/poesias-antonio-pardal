@@ -1,7 +1,7 @@
 ---
 id: 316
-title: "POESIAS ANTONIO PARDAL"
-slug: 316-poesias-antonio-pardal
+title: "LUZBEL"
+slug: 316-luzbel
 date: 2007-10-13
 ---
 

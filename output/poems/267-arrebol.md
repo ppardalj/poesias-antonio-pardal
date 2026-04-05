@@ -1,7 +1,7 @@
 ---
 id: 267
-title: "POESIAS ANTONIO PARDAL"
-slug: 267-poesias-antonio-pardal
+title: "ARREBOL"
+slug: 267-arrebol
 date: 2007-04-23
 ---
 

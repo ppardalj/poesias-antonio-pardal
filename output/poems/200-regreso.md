@@ -1,7 +1,7 @@
 ---
 id: 200
-title: "RETORNO. EN GAITA GALLEGA"
-slug: 200-retorno-en-gaita-gallega
+title: "REGRESO"
+slug: 200-regreso
 ---
 
 Y cuando, dulce, hayas vuelto al hogar

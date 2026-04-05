@@ -1,7 +1,7 @@
 ---
 id: 274
-title: "POESIAS ANTONIO PARDAL"
-slug: 274-poesias-antonio-pardal
+title: "SILENCIO"
+slug: 274-silencio
 date: 2007-05-15
 ---
 

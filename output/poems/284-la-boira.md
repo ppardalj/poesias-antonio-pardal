@@ -1,7 +1,7 @@
 ---
 id: 284
-title: "VOLVER"
-slug: 284-volver
+title: "LA BOIRA"
+slug: 284-la-boira
 date: 2007-06-17
 ---
 

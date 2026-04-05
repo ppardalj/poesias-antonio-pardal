@@ -1,7 +1,7 @@
 ---
 id: 270
-title: "POESIAS ANTONIO PARDAL"
-slug: 270-poesias-antonio-pardal
+title: "SOLITUD"
+slug: 270-solitud
 date: 2007-05-02
 ---
 

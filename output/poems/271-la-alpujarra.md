@@ -1,7 +1,7 @@
 ---
 id: 271
-title: "POESIAS ANTONIO PARDAL"
-slug: 271-poesias-antonio-pardal
+title: "LA ALPUJARRA"
+slug: 271-la-alpujarra
 date: 2007-05-09
 ---
 

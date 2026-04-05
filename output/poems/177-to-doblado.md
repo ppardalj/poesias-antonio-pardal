@@ -1,7 +1,7 @@
 ---
 id: 177
-title: "SONETO DOBLADO"
-slug: 177-soneto-doblado
+title: "TO DOBLADO"
+slug: 177-to-doblado
 ---
 
 Quiero ser un poeta excepcional,

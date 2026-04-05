@@ -1,7 +1,7 @@
 ---
 id: 327
-title: "POESIAS ANTONIO PARDAL"
-slug: 327-poesias-antonio-pardal
+title: "MORAGA"
+slug: 327-moraga
 date: 2007-11-18
 ---
 

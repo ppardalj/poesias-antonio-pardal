@@ -1,7 +1,7 @@
 ---
 id: 309
-title: "VOLVER"
-slug: 309-volver
+title: "¿QUIEN ACUSA...?"
+slug: 309-quien-acusa
 date: 2007-09-16
 ---
 

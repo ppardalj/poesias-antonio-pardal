@@ -1,7 +1,7 @@
 ---
 id: 326
-title: "VOLVER"
-slug: 326-volver
+title: "REMEMBRANZA"
+slug: 326-remembranza
 date: 2007-11-16
 ---
 

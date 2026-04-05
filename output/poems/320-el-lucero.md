@@ -1,7 +1,7 @@
 ---
 id: 320
-title: "POESIAS ANTONIO PARDAL"
-slug: 320-poesias-antonio-pardal
+title: "EL LUCERO"
+slug: 320-el-lucero
 date: 2007-10-24
 ---
 

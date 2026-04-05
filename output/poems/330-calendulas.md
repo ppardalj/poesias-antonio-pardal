@@ -1,7 +1,7 @@
 ---
 id: 330
-title: "POESIAS ANTONIO PARDAL"
-slug: 330-poesias-antonio-pardal
+title: "CALÉNDULAS"
+slug: 330-calendulas
 date: 2007-11-24
 ---
 

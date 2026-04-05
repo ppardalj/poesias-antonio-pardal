@@ -1,7 +1,7 @@
 ---
 id: 029
-title: "SIERRA NEVADA (LAMENTO DE BOABDIL)"
-slug: 029-sierra-nevada-lamento-de-boabdil
+title: "SIERRA NEVADA"
+slug: 029-sierra-nevada
 ---
 
 SIERRA NEVADA (Lamento de Boabdil)

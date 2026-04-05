@@ -1,7 +1,7 @@
 ---
 id: 322
-title: "POESIAS ANTONIO PARDAL"
-slug: 322-poesias-antonio-pardal
+title: "SOLEDADES"
+slug: 322-soledades
 date: 2007-10-02
 ---
 

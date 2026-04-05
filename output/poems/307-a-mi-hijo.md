@@ -1,7 +1,7 @@
 ---
 id: 307
-title: "POESIAS ANTONIO PARDAL"
-slug: 307-poesias-antonio-pardal
+title: "A MI HIJO"
+slug: 307-a-mi-hijo
 date: 2007-08-31
 ---
 

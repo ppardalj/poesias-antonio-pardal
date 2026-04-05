@@ -1,7 +1,7 @@
 ---
 id: 059
-title: "POESIAS ANTONIO PARDAL"
-slug: 059-poesias-antonio-pardal
+title: "ALZHEIMER"
+slug: 059-alzheimer
 ---
 
 Cuando el tiempo me obligue a doblar la cabeza,

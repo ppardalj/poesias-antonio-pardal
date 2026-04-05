@@ -1,7 +1,7 @@
 ---
 id: 203
-title: "EL FIN . EN GAITA GALLEGA"
-slug: 203-el-fin-en-gaita-gallega
+title: "EL FIN"
+slug: 203-el-fin
 ---
 
 ¡Cierra inmediato las puertas del cielo!

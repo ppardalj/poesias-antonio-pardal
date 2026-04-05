@@ -1,6 +1,6 @@
 ---
 id: 009
-title: "MI ANDALUCIA"
+title: "MI ANDALUCÍA"
 slug: 009-mi-andalucia
 ---
 

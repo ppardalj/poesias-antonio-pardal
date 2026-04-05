@@ -1,7 +1,7 @@
 ---
 id: 057
-title: ""
-slug: 057-
+title: "TU MIRADA"
+slug: 057-tu-mirada
 ---
 
 Si en Gaia ningún hombre ya cantase

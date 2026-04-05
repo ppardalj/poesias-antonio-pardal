@@ -1,6 +1,6 @@
 ---
 id: 070
-title: "Y GRITARÁS"
+title: "Y GRITARÁS..."
 slug: 070-y-gritaras
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 306
-title: "POESIAS ANTONIO PARDAL"
-slug: 306-poesias-antonio-pardal
+title: "EL ABUELO"
+slug: 306-el-abuelo
 date: 2007-08-28
 ---
 

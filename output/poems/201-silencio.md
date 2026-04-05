@@ -1,7 +1,7 @@
 ---
 id: 201
-title: "SILENCIO. EN GAITA GALLEGA"
-slug: 201-silencio-en-gaita-gallega
+title: "SILENCIO"
+slug: 201-silencio
 ---
 
 Ese silencio que guarda tu boca

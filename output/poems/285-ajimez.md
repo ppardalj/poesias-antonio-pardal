@@ -1,7 +1,7 @@
 ---
 id: 285
-title: "POESIAS ANTONIO PARDAL"
-slug: 285-poesias-antonio-pardal
+title: "AJIMEZ"
+slug: 285-ajimez
 date: 2007-06-17
 ---
 

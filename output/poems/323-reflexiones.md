@@ -1,7 +1,7 @@
 ---
 id: 323
-title: "POESIAS ANTONIO PARDAL"
-slug: 323-poesias-antonio-pardal
+title: "REFLEXIONES"
+slug: 323-reflexiones
 date: 2007-11-07
 ---
 

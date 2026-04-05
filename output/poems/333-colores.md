@@ -1,7 +1,7 @@
 ---
 id: 333
-title: "POESIAS ANTONIO PARDAL"
-slug: 333-poesias-antonio-pardal
+title: "COLORES"
+slug: 333-colores
 date: 2007-12-01
 ---
 

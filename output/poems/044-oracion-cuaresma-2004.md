@@ -1,7 +1,7 @@
 ---
 id: 044
-title: "ORACION PARA LA CUARESMA DEL 2004"
-slug: 044-oracion-para-la-cuaresma-del-2004
+title: "ORACIÓN CUARESMA 2004"
+slug: 044-oracion-cuaresma-2004
 ---
 
 Dios infinito que estás en el Cielo.

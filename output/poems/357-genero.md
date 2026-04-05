@@ -1,6 +1,6 @@
 ---
 id: 357
-title: "GENERO"
+title: "GÉNERO"
 slug: 357-genero
 date: 2008-05-16
 ---

@@ -1,7 +1,7 @@
 ---
 id: 289
-title: "DESENGAÑO DE LAS MUJERES"
-slug: 289-desengano-de-las-mujeres
+title: "PUTADAS"
+slug: 289-putadas
 date: 2007-07-02
 ---
 

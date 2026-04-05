@@ -1,7 +1,7 @@
 ---
 id: 332
-title: "POESIAS ANTONIO PARDAL"
-slug: 332-poesias-antonio-pardal
+title: "ABORTO"
+slug: 332-aborto
 date: 2007-12-01
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 276
-title: "POESIAS ANTONIO PARDAL"
-slug: 276-poesias-antonio-pardal
+title: "MARGARITA"
+slug: 276-margarita
 date: 2007-05-20
 ---
 

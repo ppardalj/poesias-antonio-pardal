@@ -1,7 +1,7 @@
 ---
 id: 199
-title: "OJOS. EN GAITA GALLEGA"
-slug: 199-ojos-en-gaita-gallega
+title: "OJOS"
+slug: 199-ojos
 ---
 
 Ojos que miran con suave dulzura

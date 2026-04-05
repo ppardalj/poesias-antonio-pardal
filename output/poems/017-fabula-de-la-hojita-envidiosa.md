@@ -1,6 +1,6 @@
 ---
 id: 017
-title: "FABULA DE LA HOJITA ENVIDIOSA"
+title: "FÁBULA DE LA HOJITA ENVIDIOSA"
 slug: 017-fabula-de-la-hojita-envidiosa
 ---
 

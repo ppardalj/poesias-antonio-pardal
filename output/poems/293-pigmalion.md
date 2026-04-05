@@ -1,7 +1,7 @@
 ---
 id: 293
-title: "POESIAS ANTONIO PARDAL"
-slug: 293-poesias-antonio-pardal
+title: "PIGMALIÓN"
+slug: 293-pigmalion
 date: 2007-07-09
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 062
-title: "POESIAS ANTONIO PARDAL"
-slug: 062-poesias-antonio-pardal
+title: "TURISMO"
+slug: 062-turismo
 ---
 
 ¿Por qué lloras, nena?

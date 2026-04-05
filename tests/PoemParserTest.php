@@ -155,4 +155,14 @@ class PoemParserTest extends TestCase
         // "Verse Part 1" should be joined because there's no <br> between them
         $this->assertStringContainsString("Verse Part 1\nVerse Part 2 extra text for length", $output);
     }
+
+    public function testParseWithExplicitTitle(): void
+    {
+        $html = '<html><head><title>Original Title</title></head><body></body></html>';
+        $output = $this->parser->parse($html, 'Antonio1.htm', 'Title from Index');
+        
+        $this->assertStringContainsString('title: "TITLE FROM INDEX"', $output);
+        $this->assertStringContainsString('slug: 001-title-from-index', $output);
+        $this->assertStringNotContainsString('ORIGINAL TITLE', $output);
+    }
 }

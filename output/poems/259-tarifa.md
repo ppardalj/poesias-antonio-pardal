@@ -1,7 +1,7 @@
 ---
 id: 259
-title: ""
-slug: 259-
+title: "TARIFA"
+slug: 259-tarifa
 date: 2007-04-02
 ---
 

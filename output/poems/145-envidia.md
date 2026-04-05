@@ -1,7 +1,7 @@
 ---
 id: 145
-title: "LA ENVIDIA"
-slug: 145-la-envidia
+title: "ENVIDIA"
+slug: 145-envidia
 ---
 
 La envidia es sentimiento muy humano

@@ -1,7 +1,7 @@
 ---
 id: 324
-title: "POESIAS ANTONIO PARDAL"
-slug: 324-poesias-antonio-pardal
+title: "AZUCENA"
+slug: 324-azucena
 date: 2007-11-14
 ---
 

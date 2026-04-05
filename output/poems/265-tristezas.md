@@ -1,7 +1,7 @@
 ---
 id: 265
-title: "POESIAS ANTONIO PARDAL"
-slug: 265-poesias-antonio-pardal
+title: "TRISTEZAS"
+slug: 265-tristezas
 date: 2007-04-20
 ---
 

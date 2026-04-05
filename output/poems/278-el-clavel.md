@@ -1,7 +1,7 @@
 ---
 id: 278
-title: "POESIAS ANTONIO PARDAL"
-slug: 278-poesias-antonio-pardal
+title: "EL CLAVEL"
+slug: 278-el-clavel
 date: 2007-05-25
 ---
 

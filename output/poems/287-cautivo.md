@@ -1,7 +1,7 @@
 ---
 id: 287
-title: "POESIAS ANTONIO PARDAL"
-slug: 287-poesias-antonio-pardal
+title: "CAUTIVO"
+slug: 287-cautivo
 date: 2007-06-25
 ---
 

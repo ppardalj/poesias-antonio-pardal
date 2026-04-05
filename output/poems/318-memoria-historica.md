@@ -1,7 +1,7 @@
 ---
 id: 318
-title: "POESIAS ANTONIO PARDAL"
-slug: 318-poesias-antonio-pardal
+title: "MEMORIA HISTÓRICA"
+slug: 318-memoria-historica
 date: 2007-10-21
 ---
 

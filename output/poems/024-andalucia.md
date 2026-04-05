@@ -1,6 +1,6 @@
 ---
 id: 024
-title: "ANDALUCIA"
+title: "ANDALUCÍA"
 slug: 024-andalucia
 ---
 

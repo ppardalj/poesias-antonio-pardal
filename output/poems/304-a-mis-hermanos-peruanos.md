@@ -1,7 +1,7 @@
 ---
 id: 304
-title: "POESIAS ANTONIO PARDAL"
-slug: 304-poesias-antonio-pardal
+title: "A MIS HERMANOS PERUANOS"
+slug: 304-a-mis-hermanos-peruanos
 date: 2007-08-18
 ---
 

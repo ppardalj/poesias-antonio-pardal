@@ -1,6 +1,6 @@
 ---
 id: 120
-title: "GEMIDO"
+title: "GEMIDO..."
 slug: 120-gemido
 ---
 

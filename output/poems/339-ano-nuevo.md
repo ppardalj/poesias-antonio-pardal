@@ -1,7 +1,7 @@
 ---
 id: 339
-title: "POESIAS ANTONIO PARDAL"
-slug: 339-poesias-antonio-pardal
+title: "AÑO NUEVO"
+slug: 339-ano-nuevo
 date: 2008-01-02
 ---
 

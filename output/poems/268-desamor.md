@@ -1,7 +1,7 @@
 ---
 id: 268
-title: "POESIAS ANTONIO PARDAL"
-slug: 268-poesias-antonio-pardal
+title: "DESAMOR"
+slug: 268-desamor
 date: 2007-04-25
 ---
 

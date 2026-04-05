@@ -1,7 +1,7 @@
 ---
 id: 336
-title: "POESIAS ANTONIO PARDAL"
-slug: 336-poesias-antonio-pardal
+title: "UN AÑO MÁS"
+slug: 336-un-ano-mas
 date: 2007-12-23
 ---
 

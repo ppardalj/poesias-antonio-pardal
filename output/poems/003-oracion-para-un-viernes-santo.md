@@ -1,6 +1,6 @@
 ---
 id: 003
-title: "ORACION PARA UN VIERNES SANTO"
+title: "ORACIÓN PARA UN VIERNES SANTO"
 slug: 003-oracion-para-un-viernes-santo
 ---
 

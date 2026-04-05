@@ -1,7 +1,7 @@
 ---
 id: 277
-title: "POESIAS ANTONIO PARDAL"
-slug: 277-poesias-antonio-pardal
+title: "LA PERLA"
+slug: 277-la-perla
 date: 2007-05-25
 ---
 

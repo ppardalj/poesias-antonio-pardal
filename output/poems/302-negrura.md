@@ -1,7 +1,7 @@
 ---
 id: 302
-title: "POESIAS ANTONIO PARDAL"
-slug: 302-poesias-antonio-pardal
+title: "NEGRURA"
+slug: 302-negrura
 date: 2007-08-13
 ---
 

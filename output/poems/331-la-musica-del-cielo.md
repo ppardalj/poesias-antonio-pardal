@@ -1,7 +1,7 @@
 ---
 id: 331
-title: "POESIAS ANTONIO PARDAL"
-slug: 331-poesias-antonio-pardal
+title: "LA MÚSICA DEL CIELO"
+slug: 331-la-musica-del-cielo
 date: 2007-11-19
 ---
 

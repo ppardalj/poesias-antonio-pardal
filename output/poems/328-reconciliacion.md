@@ -1,7 +1,7 @@
 ---
 id: 328
-title: "VOLVER"
-slug: 328-volver
+title: "RECONCILIACIÓN"
+slug: 328-reconciliacion
 date: 2007-11-26
 ---
 

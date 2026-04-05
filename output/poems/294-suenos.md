@@ -1,7 +1,7 @@
 ---
 id: 294
-title: "POESIAS ANTONIO PARDAL"
-slug: 294-poesias-antonio-pardal
+title: "SUEÑOS"
+slug: 294-suenos
 date: 2007-07-12
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 317
-title: "POESIAS ANTONIO PARDAL"
-slug: 317-poesias-antonio-pardal
+title: "VIOLENCIA DE GÉNERO"
+slug: 317-violencia-de-genero
 date: 2007-10-17
 ---
 

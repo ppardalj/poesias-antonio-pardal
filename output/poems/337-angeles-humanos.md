@@ -1,7 +1,7 @@
 ---
 id: 337
-title: "POESIAS ANTONIO PARDAL"
-slug: 337-poesias-antonio-pardal
+title: "ÁNGELES HUMANOS"
+slug: 337-angeles-humanos
 date: 2007-12-18
 ---
 

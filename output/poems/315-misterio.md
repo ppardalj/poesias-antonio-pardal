@@ -1,7 +1,7 @@
 ---
 id: 315
-title: "POESIAS ANTONIO PARDAL"
-slug: 315-poesias-antonio-pardal
+title: "MISTERIO"
+slug: 315-misterio
 date: 2007-10-09
 ---
 

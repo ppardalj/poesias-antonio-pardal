@@ -1,7 +1,7 @@
 ---
 id: 313
-title: "POESIAS ANTONIO PARDAL"
-slug: 313-poesias-antonio-pardal
+title: "LAXITUD"
+slug: 313-laxitud
 date: 2007-10-04
 ---
 

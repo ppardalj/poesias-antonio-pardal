@@ -1,7 +1,7 @@
 ---
 id: 058
-title: ""
-slug: 058-
+title: "¡MALDITOS!"
+slug: 058-malditos
 ---
 
 ¡Oh, dioses hambrientos de sangre del hombre!

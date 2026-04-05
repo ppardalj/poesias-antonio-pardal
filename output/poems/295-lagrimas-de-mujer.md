@@ -1,7 +1,7 @@
 ---
 id: 295
-title: "POESIAS ANTONIO PARDAL"
-slug: 295-poesias-antonio-pardal
+title: "LÁGRIMAS DE MUJER"
+slug: 295-lagrimas-de-mujer
 date: 2007-07-17
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 334
-title: "POESIAS ANTONIO PARDAL"
-slug: 334-poesias-antonio-pardal
+title: "EL SUEÑO"
+slug: 334-el-sueno
 date: 2007-11-26
 ---
 

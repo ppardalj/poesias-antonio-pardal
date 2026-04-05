@@ -1,6 +1,6 @@
 ---
 id: 100
-title: "MI ANGEL"
+title: "MI ÁNGEL"
 slug: 100-mi-angel
 ---
 

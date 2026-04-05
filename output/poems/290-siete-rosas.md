@@ -1,7 +1,7 @@
 ---
 id: 290
-title: "POESIAS ANTONIO PARDAL"
-slug: 290-poesias-antonio-pardal
+title: "SIETE ROSAS"
+slug: 290-siete-rosas
 date: 2007-07-03
 ---
 

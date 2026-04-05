@@ -1,7 +1,7 @@
 ---
 id: 305
-title: "POESIAS ANTONIO PARDAL"
-slug: 305-poesias-antonio-pardal
+title: "BRINDIS"
+slug: 305-brindis
 date: 2007-08-26
 ---
 

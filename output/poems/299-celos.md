@@ -1,7 +1,7 @@
 ---
 id: 299
-title: "POESIAS ANTONIO PARDAL"
-slug: 299-poesias-antonio-pardal
+title: "CELOS"
+slug: 299-celos
 date: 2007-07-27
 ---
 

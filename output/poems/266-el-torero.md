@@ -1,7 +1,7 @@
 ---
 id: 266
-title: "POESIAS ANTONIO PARDAL"
-slug: 266-poesias-antonio-pardal
+title: "EL TORERO"
+slug: 266-el-torero
 date: 2007-04-16
 ---
 

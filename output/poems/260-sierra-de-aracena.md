@@ -1,7 +1,7 @@
 ---
 id: 260
-title: ""
-slug: 260-
+title: "SIERRA DE ARACENA"
+slug: 260-sierra-de-aracena
 date: 2007-04-10
 ---
 

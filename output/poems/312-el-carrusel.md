@@ -1,7 +1,7 @@
 ---
 id: 312
-title: "POESIAS ANTONIO PARDAL"
-slug: 312-poesias-antonio-pardal
+title: "EL CARRUSEL"
+slug: 312-el-carrusel
 date: 2007-09-26
 ---
 

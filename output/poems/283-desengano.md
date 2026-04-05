@@ -1,7 +1,7 @@
 ---
 id: 283
-title: "POESIAS ANTONIO PARDAL"
-slug: 283-poesias-antonio-pardal
+title: "DESENGAÑO"
+slug: 283-desengano
 date: 2007-06-16
 ---
 

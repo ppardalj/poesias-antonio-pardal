@@ -1,7 +1,7 @@
 ---
 id: 297
-title: "POESIAS ANTONIO PARDAL"
-slug: 297-poesias-antonio-pardal
+title: "MI SULTANA"
+slug: 297-mi-sultana
 date: 2007-07-23
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 292
-title: "POESIAS ANTONIO PARDAL"
-slug: 292-poesias-antonio-pardal
+title: "ESPERPENTO"
+slug: 292-esperpento
 date: 2007-07-09
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 314
-title: "POESIAS ANTONIO PARDAL"
-slug: 314-poesias-antonio-pardal
+title: "EL DESENGAÑO"
+slug: 314-el-desengano
 date: 2007-10-05
 ---
 

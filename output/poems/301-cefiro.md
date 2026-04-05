@@ -1,7 +1,7 @@
 ---
 id: 301
-title: "POESIAS ANTONIO PARDAL"
-slug: 301-poesias-antonio-pardal
+title: "CÉFIRO"
+slug: 301-cefiro
 date: 2007-08-06
 ---
 

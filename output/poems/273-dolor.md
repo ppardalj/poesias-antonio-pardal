@@ -1,7 +1,7 @@
 ---
 id: 273
-title: "POESIAS ANTONIO PARDAL"
-slug: 273-poesias-antonio-pardal
+title: "DOLOR"
+slug: 273-dolor
 date: 2007-05-14
 ---
 

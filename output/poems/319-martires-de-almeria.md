@@ -1,7 +1,7 @@
 ---
 id: 319
-title: "POESIAS ANTONIO PARDAL"
-slug: 319-poesias-antonio-pardal
+title: "MÁRTIRES DE ALMERÍA"
+slug: 319-martires-de-almeria
 date: 2007-10-21
 ---
 

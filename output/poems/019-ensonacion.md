@@ -1,6 +1,6 @@
 ---
 id: 019
-title: "ENSOÑACION"
+title: "ENSOÑACIÓN"
 slug: 019-ensonacion
 ---
 

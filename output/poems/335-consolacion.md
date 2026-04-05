@@ -1,7 +1,7 @@
 ---
 id: 335
-title: "POESIAS ANTONIO PARDAL"
-slug: 335-poesias-antonio-pardal
+title: "CONSOLACIÓN"
+slug: 335-consolacion
 date: 2007-12-06
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 303
-title: "POESIAS ANTONIO PARDAL"
-slug: 303-poesias-antonio-pardal
+title: "CORAZÓN"
+slug: 303-corazon
 date: 2007-08-16
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 279
-title: "POESIAS ANTONIO PARDAL"
-slug: 279-poesias-antonio-pardal
+title: "PASA EL TIEMPO"
+slug: 279-pasa-el-tiempo
 date: 2007-06-02
 ---
 

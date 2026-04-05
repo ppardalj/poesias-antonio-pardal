@@ -1,7 +1,7 @@
 ---
 id: 298
-title: "POESIAS ANTONIO PARDAL"
-slug: 298-poesias-antonio-pardal
+title: "MADRE"
+slug: 298-madre
 date: 2007-07-25
 ---
 

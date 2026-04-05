@@ -1,7 +1,7 @@
 ---
 id: 300
-title: "POESIAS ANTONIO PARDAL"
-slug: 300-poesias-antonio-pardal
+title: "CARICIAS"
+slug: 300-caricias
 date: 2007-07-29
 ---
 
