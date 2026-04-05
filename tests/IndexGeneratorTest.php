@@ -24,9 +24,9 @@ class IndexGeneratorTest extends TestCase
         $output = $this->generator->generate($html);
 
         $this->assertStringContainsString('## SECCIÓN 1', $output);
-        $this->assertStringContainsString('- [Poema 1](Antonio1.htm)', $output);
+        $this->assertStringContainsString('- [Poema 1](poems/001-poema-1.md)', $output);
         $this->assertStringContainsString('## SECCIÓN 2', $output);
-        $this->assertStringContainsString('- [Poema 2](Antonio2.htm)', $output);
+        $this->assertStringContainsString('- [Poema 2](poems/002-poema-2.md)', $output);
     }
 
     public function testGenerateIndexWithSubtitles(): void
@@ -44,9 +44,9 @@ class IndexGeneratorTest extends TestCase
         </body></html>';
 
         $output = $this->generator->generate($html);
-
+        
         $this->assertStringContainsString('## AMOR (A VICTORIA)', $output);
-        $this->assertStringContainsString('- [Poema Amor](Antonio1.htm)', $output);
+        $this->assertStringContainsString('- [Poema Amor](poems/001-poema-amor.md)', $output);
     }
 
     public function testSeparationOfSections(): void

@@ -16,6 +16,34 @@ class PoemParser
     }
 
     /**
+     * Extrae el ID formateado a partir del nombre de archivo.
+     */
+    public static function formatId(?string $id): ?string
+    {
+        if ($id === null) {
+            return null;
+        }
+        // Extraer números del ID (ej. Antonio312.htm -> 312)
+        if (preg_match('/(\d+)/', $id, $matches)) {
+            return sprintf('%03d', $matches[1]);
+        }
+        return null;
+    }
+
+    /**
+     * Genera un slug a partir de un título y un ID.
+     */
+    public static function generateSlug(string $title, ?string $formattedId = null): string
+    {
+        $slugify = new Slugify();
+        $slug = $slugify->slugify($title);
+        if ($formattedId !== null) {
+            $slug = $formattedId . '-' . $slug;
+        }
+        return $slug;
+    }
+
+    /**
      * Parsea el contenido HTML de un poema y devuelve el output con Front Matter.
      *
      * @param string $html Contenido HTML del poema.
@@ -33,18 +61,8 @@ class PoemParser
 
         $title = $this->extractTitle($xpath);
         
-        $formattedId = null;
-        if ($id !== null) {
-            // Extraer números del ID (ej. Antonio312.htm -> 312)
-            if (preg_match('/(\d+)/', $id, $matches)) {
-                $formattedId = sprintf('%03d', $matches[1]);
-            }
-        }
-
-        $slug = $this->slugify->slugify($title);
-        if ($formattedId !== null) {
-            $slug = $formattedId . '-' . $slug;
-        }
+        $formattedId = self::formatId($id);
+        $slug = self::generateSlug($title, $formattedId);
 
         $date = $this->extractDate($xpath);
         $poemBlocks = $this->extractPoemText($dom, $xpath);

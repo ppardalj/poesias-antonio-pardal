@@ -75,11 +75,15 @@ class IndexGenerator
                 $title = preg_replace('/\s+/', ' ', $title);
                 $title = trim($title);
                 
+                $formattedId = PoemParser::formatId($href);
+                $slug = PoemParser::generateSlug($title, $formattedId);
+                $outputPath = "poems/$slug.md";
+                
                 $key = $href . '|' . $title;
                 if (isset($processed[$key])) continue;
                 $processed[$key] = true;
                 
-                $output .= "- [$title]($href)\n";
+                $output .= "- [$title]($outputPath)\n";
             }
         }
 
