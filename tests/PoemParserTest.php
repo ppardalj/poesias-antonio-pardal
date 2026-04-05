@@ -81,6 +81,32 @@ class PoemParserTest extends TestCase
         $this->assertStringContainsString('title: "CANCIÓN DE LA TIERRA"', $output);
     }
 
+    public function testFrontMatterContainsSlug(): void
+    {
+        $html = '<html><head><title>Canci&oacute;n de la Tierra</title></head><body></body></html>';
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString('slug: cancion-de-la-tierra', $output);
+    }
+
+    public function testFrontMatterContainsIdAndSlugWithId(): void
+    {
+        $html = '<html><head><title>Test Poem</title></head><body></body></html>';
+        $output = $this->parser->parse($html, 'Antonio312.htm');
+        
+        $this->assertStringContainsString('id: 312', $output);
+        $this->assertStringContainsString('slug: 312-test-poem', $output);
+    }
+
+    public function testIdPaddedWithZeros(): void
+    {
+        $html = '<html><head><title>Test Poem</title></head><body></body></html>';
+        $output = $this->parser->parse($html, 'Antonio8.htm');
+        
+        $this->assertStringContainsString('id: 008', $output);
+        $this->assertStringContainsString('slug: 008-test-poem', $output);
+    }
+
     public function testVersesSeparatedByBrNoBlankLines(): void
     {
         $html = '<html><head><title>Poem</title></head><body>

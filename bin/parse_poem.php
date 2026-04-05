@@ -20,6 +20,6 @@ if (!file_exists($filename)) {
 $html = file_get_contents($filename);
 
 $parser = new PoemParser();
-$output = $parser->parse($html);
+$output = $parser->parse($html, basename($filename));
 
 echo $output;

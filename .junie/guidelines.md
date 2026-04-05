@@ -4,7 +4,7 @@ Este repositorio utiliza PHP y Composer. Sigue estas reglas:
 
 - **Comandos Unix**: Usa siempre sintaxis de Ubuntu/Unix (ej: `ls`, `cp`, `mv`, `rm`).
 - **Ejecución de Tests**:
-  `php vendor/phpunit/phpunit/phpunit tests/PoemParserTest.php`
+  `php vendor/bin/phpunit tests`
 - **Ejecución del Script**:
   `php bin/parse_poem.php input/<fichero.htm>`
   Ejemplos:

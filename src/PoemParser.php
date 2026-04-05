@@ -4,16 +4,25 @@ namespace Poesias;
 
 use DOMDocument;
 use DOMXPath;
+use Cocur\Slugify\Slugify;
 
 class PoemParser
 {
+    private Slugify $slugify;
+
+    public function __construct()
+    {
+        $this->slugify = new Slugify();
+    }
+
     /**
      * Parsea el contenido HTML de un poema y devuelve el output con Front Matter.
      *
      * @param string $html Contenido HTML del poema.
+     * @param string|null $id ID del poema (ej. nombre del archivo).
      * @return string Poema formateado con Front Matter.
      */
-    public function parse(string $html): string
+    public function parse(string $html, ?string $id = null): string
     {
         libxml_use_internal_errors(true); // evitar warnings por HTML roto
 
@@ -23,10 +32,24 @@ class PoemParser
         $xpath = new DOMXPath($dom);
 
         $title = $this->extractTitle($xpath);
+        
+        $formattedId = null;
+        if ($id !== null) {
+            // Extraer números del ID (ej. Antonio312.htm -> 312)
+            if (preg_match('/(\d+)/', $id, $matches)) {
+                $formattedId = sprintf('%03d', $matches[1]);
+            }
+        }
+
+        $slug = $this->slugify->slugify($title);
+        if ($formattedId !== null) {
+            $slug = $formattedId . '-' . $slug;
+        }
+
         $date = $this->extractDate($xpath);
         $poemBlocks = $this->extractPoemText($dom, $xpath);
 
-        $output = $this->computeFrontMatter($title, $date);
+        $output = $this->computeFrontMatter($title, $slug, $date, $formattedId);
         $output .= implode("\n\n", $poemBlocks);
         $output .= "\n";
 
@@ -154,10 +177,14 @@ class PoemParser
     /**
      * Computa el Front Matter.
      */
-    private function computeFrontMatter(string $title, ?string $date): string
+    private function computeFrontMatter(string $title, string $slug, ?string $date, ?string $id = null): string
     {
         $output = "---\n";
+        if ($id !== null) {
+            $output .= "id: $id\n";
+        }
         $output .= "title: \"$title\"\n";
+        $output .= "slug: $slug\n";
         if ($date) {
             $output .= "date: $date\n";
         }
