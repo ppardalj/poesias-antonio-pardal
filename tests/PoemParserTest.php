@@ -188,4 +188,18 @@ class PoemParserTest extends TestCase
         
         $this->assertStringContainsString('title: "MAGDALENA"', $output);
     }
+
+    public function testParseTextWithUppercaseTagsAndB(): void
+    {
+        $html = '<html><head><title>LA LLAGA</title></head><body>
+            <P align="center" class="EnlaceAnfy  Estilo69"><B>P&uacute;stula purulenta que me acosas <BR>
+            las entra&ntilde;as. &iquest;Por qu&eacute; me vas matando <BR>
+            poco a poco? &iquest;Por qu&eacute; vas destrozando <BR>
+            mis campos, mis espigas y mis rosas? </B></P>
+        </body></html>';
+
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString("Pústula purulenta que me acosas\nlas entrañas. ¿Por qué me vas matando\npoco a poco? ¿Por qué vas destrozando\nmis campos, mis espigas y mis rosas?", $output);
+    }
 }

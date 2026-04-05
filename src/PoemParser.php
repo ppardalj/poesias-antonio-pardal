@@ -161,8 +161,8 @@ class PoemParser
      */
     private function extractPoemText(DOMDocument $dom, DOMXPath $xpath): array
     {
-        // buscar <p align="center"> que contengan <strong>
-        $nodes = $xpath->query('//p[@align="center"][.//strong]');
+        // buscar <p align="center"> o <P align="center"> que contengan <strong> o <b> (o mayúsculas)
+        $nodes = $xpath->query('//p[@align="center" or @align="CENTER"][.//strong or .//b or .//STRONG or .//B]');
 
         $poem = [];
 
