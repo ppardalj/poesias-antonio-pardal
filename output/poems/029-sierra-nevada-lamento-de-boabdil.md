@@ -2,7 +2,10 @@
 id: 029
 title: "SIERRA NEVADA (LAMENTO DE BOABDIL)"
 slug: 029-sierra-nevada-lamento-de-boabdil
+category: mi-andalucia
 ---
+
+# SIERRA NEVADA (LAMENTO DE BOABDIL)
 
 SIERRA NEVADA (Lamento de Boabdil)
 

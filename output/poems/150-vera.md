@@ -2,7 +2,10 @@
 id: 150
 title: "VERA"
 slug: 150-vera
+category: mi-andalucia
 ---
+
+# VERA
 
 ¡Ay, playas de Vera!
 De mi Andalucía.

@@ -2,7 +2,10 @@
 id: 160
 title: "DILEMA"
 slug: 160-dilema
+category: tristezas
 ---
+
+# DILEMA
 
 El frescor de la brisa que cabalga en las olas,
 o el aroma hechicero del jazmín en los parques.

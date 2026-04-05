@@ -2,7 +2,10 @@
 id: 104
 title: "EL PAÑUELO"
 slug: 104-el-panuelo
+category: tristezas
 ---
+
+# EL PAÑUELO
 
 No lo laves...
 No laves ese pañuelo...

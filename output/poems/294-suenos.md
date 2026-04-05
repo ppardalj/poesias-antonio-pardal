@@ -2,8 +2,11 @@
 id: 294
 title: "SUEÑOS"
 slug: 294-suenos
+category: poesias-de-amor
 date: 2007-07-12
 ---
+
+# SUEÑOS
 
 Mas al surgir otra vez la alborada
 vuelve a romperse el encanto al perderte,

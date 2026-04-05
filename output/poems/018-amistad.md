@@ -2,7 +2,10 @@
 id: 018
 title: "¿AMISTAD?"
 slug: 018-amistad
+category: poesias-de-amor
 ---
+
+# ¿AMISTAD?
 
 Mil veces abrí mi pecho
 a quien no lo merecía,

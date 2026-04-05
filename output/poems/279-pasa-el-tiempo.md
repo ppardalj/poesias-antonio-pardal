@@ -2,8 +2,11 @@
 id: 279
 title: "PASA EL TIEMPO"
 slug: 279-pasa-el-tiempo
+category: poesias-de-amor
 date: 2007-06-02
 ---
+
+# PASA EL TIEMPO
 
 El tiempo pasa raudo y tan fugaz
 que no apreciamos su veloz transcurso.

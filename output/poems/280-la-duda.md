@@ -2,8 +2,11 @@
 id: 280
 title: "LA DUDA"
 slug: 280-la-duda
+category: tristezas
 date: 2007-06-04
 ---
+
+# LA DUDA
 
 Como un dragón vas corriendo en mis venas,
 y arde mi alma en la pira de fuego

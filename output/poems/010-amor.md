@@ -2,7 +2,10 @@
 id: 010
 title: "¿AMOR?"
 slug: 010-amor
+category: poesias-de-amor
 ---
+
+# ¿AMOR?
 
 ¿Amor?
 ¿Tú me hablas de amor, mujer bella...?

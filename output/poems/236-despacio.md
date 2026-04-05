@@ -2,8 +2,11 @@
 id: 236
 title: "DESPACIO"
 slug: 236-despacio
+category: poesias-de-amor
 date: 2007-02-08
 ---
+
+# DESPACIO
 
 Quiero seguir con ella y soy reacio
 a dejarla sumida en la amargura.

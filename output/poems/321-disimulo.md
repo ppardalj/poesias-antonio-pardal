@@ -2,8 +2,11 @@
 id: 321
 title: "DISIMULO"
 slug: 321-disimulo
+category: poesias-de-amor
 date: 2007-10-29
 ---
+
+# DISIMULO
 
 me abrazas, sonriente, al fin de tu jornada,
 encubro la aflicción que ronda mi cabeza,

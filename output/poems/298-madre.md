@@ -2,8 +2,11 @@
 id: 298
 title: "MADRE"
 slug: 298-madre
+category: poesias-de-amor
 date: 2007-07-25
 ---
+
+# MADRE
 
 llanura sin igual. Y como diosa
 nacida en lo insondable del destino,

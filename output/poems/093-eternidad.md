@@ -2,7 +2,10 @@
 id: 093
 title: "ETERNIDAD"
 slug: 093-eternidad
+category: poesias-de-amor
 ---
+
+# ETERNIDAD
 
 Diez años nos dimos entonces...
 Diez años de dicha y amor...

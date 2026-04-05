@@ -2,7 +2,10 @@
 id: 202
 title: "GORRIÓN (EN GAITA GALLEGA)"
 slug: 202-gorrion-en-gaita-gallega
+category: poesias-de-amor
 ---
+
+# GORRIÓN (EN GAITA GALLEGA)
 
 Oh, gorrioncillo que, humilde, gorjeas
 en la enramada del arbol más alto,

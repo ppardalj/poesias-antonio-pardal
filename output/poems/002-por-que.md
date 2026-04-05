@@ -2,7 +2,10 @@
 id: 002
 title: "¿POR QUÉ?"
 slug: 002-por-que
+category: tristezas
 ---
+
+# ¿POR QUÉ?
 
 La llevo grabada en mi mente:
 Su cara agarena,

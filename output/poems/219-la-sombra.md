@@ -2,8 +2,11 @@
 id: 219
 title: "LA SOMBRA"
 slug: 219-la-sombra
+category: tristezas
 date: 2007-01-03
 ---
+
+# LA SOMBRA
 
 Hay una sombra que llevo guardada
 en mi memoria y no sé lo que siento.

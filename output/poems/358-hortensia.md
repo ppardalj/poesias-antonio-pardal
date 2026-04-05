@@ -2,8 +2,11 @@
 id: 358
 title: "HORTENSIA"
 slug: 358-hortensia
+category: poesias-de-amor
 date: 2008-05-10
 ---
+
+# HORTENSIA
 
 Quisiera ser acebo silvestre de mi sierra
 o adelfa engalanada de blanquísimas flores,

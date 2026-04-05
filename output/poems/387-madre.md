@@ -2,8 +2,11 @@
 id: 387
 title: "MADRE"
 slug: 387-madre
+category: sin-categorizar
 date: 2009-09-26
 ---
+
+# MADRE
 
 Madre que estás esperándome sola
 en los confines del orbe infinito,

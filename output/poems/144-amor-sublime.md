@@ -2,7 +2,10 @@
 id: 144
 title: "AMOR SUBLIME"
 slug: 144-amor-sublime
+category: poesias-de-amor
 ---
+
+# AMOR SUBLIME
 
 ¿Y tú me preguntas que es amor?
 El amor es motor del Universo.

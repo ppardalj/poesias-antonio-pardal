@@ -2,7 +2,10 @@
 id: 181
 title: "DESEOS"
 slug: 181-deseos
+category: poesias-de-amor
 ---
+
+# DESEOS
 
 Y volverán tus ojos a acariciar los míos,
 con esa gran dulzura que tiene tu mirada.

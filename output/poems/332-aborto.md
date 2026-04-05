@@ -2,8 +2,11 @@
 id: 332
 title: "ABORTO"
 slug: 332-aborto
+category: tristezas
 date: 2007-12-01
 ---
+
+# ABORTO
 
 ¡Madre, quiero vivir, no me rechaces!
 ¡Es muy corto ya el tiempo que te resta

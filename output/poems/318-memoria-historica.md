@@ -2,8 +2,11 @@
 id: 318
 title: "MEMORIA HISTÓRICA"
 slug: 318-memoria-historica
+category: tristezas
 date: 2007-10-21
 ---
+
+# MEMORIA HISTÓRICA
 
 Yo padecía alzheimer de una guerra
 fratricida. Tenía ya olvidada

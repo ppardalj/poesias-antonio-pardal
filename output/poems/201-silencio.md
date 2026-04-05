@@ -2,7 +2,10 @@
 id: 201
 title: "SILENCIO"
 slug: 201-silencio
+category: poesias-de-amor
 ---
+
+# SILENCIO
 
 Ese silencio que guarda tu boca
 cuando diriges a mí tu mirada

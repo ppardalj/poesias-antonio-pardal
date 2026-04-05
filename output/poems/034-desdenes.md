@@ -2,7 +2,10 @@
 id: 034
 title: "DESDENES"
 slug: 034-desdenes
+category: poesias-de-amor
 ---
+
+# DESDENES
 
 Contrasentido en tu esencia,
 contradicción en tu ser,

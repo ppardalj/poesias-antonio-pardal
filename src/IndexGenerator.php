@@ -106,10 +106,10 @@ class IndexGenerator
     }
 
     /**
-     * Extrae todos los poemas únicos del HTML del índice.
+     * Extrae todos los poemas únicos del HTML del índice con su categoría.
      *
      * @param string $html Contenido HTML del índice.
-     * @return array Lista de poemas con href y título.
+     * @return array Lista de poemas con href, título y categoría.
      */
     public function getPoems(string $html): array
     {
@@ -119,25 +119,63 @@ class IndexGenerator
         $xpath = new DOMXPath($dom);
 
         $poems = [];
-        $links = $xpath->query('//a[contains(@href, "Antonio")]');
+        $sections = $xpath->query('//*[contains(@class, "Estilo11")]');
 
-        foreach ($links as $link) {
-            $href = $link->getAttribute('href');
-            $title = trim($link->nodeValue);
+        foreach ($sections as $index => $section) {
+            $sectionTitle = trim($section->nodeValue);
             
-            if (empty($title)) continue;
+            // Verificamos si hay un subtítulo en Estilo12 cerca
+            $subtitle = '';
+            $parent = $section->parentNode;
+            while ($parent && $parent->nodeName !== 'tr' && $parent->nodeName !== 'body') {
+                $parent = $parent->parentNode;
+            }
+            if ($parent && $parent->nodeName === 'tr') {
+                $nextTr = $xpath->query('./following-sibling::tr[1]', $parent)->item(0);
+                if ($nextTr) {
+                    $subNode = $xpath->query('.//*[contains(@class, "Estilo12")]', $nextTr)->item(0);
+                    if ($subNode) {
+                        $subtitle = ' ' . trim($subNode->nodeValue);
+                    }
+                }
+            }
+
+            $category = html_entity_decode($sectionTitle . $subtitle, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+            $category = preg_replace('/\s+/', ' ', $category);
+            $category = trim($category);
+
+            // Para encontrar los enlaces de esta sección
+            $links = $xpath->query('.//following::a[contains(@href, "Antonio")]', $section);
             
-            $title = html_entity_decode($title, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-            $title = preg_replace('/\s+/', ' ', $title);
-            $title = trim($title);
-            
-            $key = $href . '|' . $title;
-            if (isset($poems[$key])) continue;
-            
-            $poems[$key] = [
-                'href' => $href,
-                'title' => $title
-            ];
+            foreach ($links as $link) {
+                if ($index < $sections->length - 1) {
+                    $nextSection = $sections->item($index + 1);
+                    // Comprobamos si el link está después de nextSection.
+                    $isAfterNext = $xpath->evaluate('count(following::*[contains(@class, "Estilo11")])', $link) < ($sections->length - 1 - $index);
+                    
+                    if ($isAfterNext) {
+                        break;
+                    }
+                }
+                
+                $href = $link->getAttribute('href');
+                $title = trim($link->nodeValue);
+                
+                if (empty($title)) continue;
+                
+                $title = html_entity_decode($title, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+                $title = preg_replace('/\s+/', ' ', $title);
+                $title = trim($title);
+                
+                $key = $href . '|' . $title;
+                if (isset($poems[$key])) continue;
+                
+                $poems[$key] = [
+                    'href' => $href,
+                    'title' => $title,
+                    'category' => $category
+                ];
+            }
         }
 
         return array_values($poems);

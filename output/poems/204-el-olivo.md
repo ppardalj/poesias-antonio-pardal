@@ -2,7 +2,10 @@
 id: 204
 title: "EL OLIVO"
 slug: 204-el-olivo
+category: poesias-de-amor
 ---
+
+# EL OLIVO
 
 Rugoso con el tronco muy altivo,
 situado en un viejo secarral,

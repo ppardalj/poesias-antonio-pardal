@@ -2,8 +2,11 @@
 id: 313
 title: "LAXITUD"
 slug: 313-laxitud
+category: poesias-de-amor
 date: 2007-10-04
 ---
+
+# LAXITUD
 
 La tierna sensación de poseerte
 transida entre mis brazos, en albores

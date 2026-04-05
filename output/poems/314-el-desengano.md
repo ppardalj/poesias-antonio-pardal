@@ -2,8 +2,11 @@
 id: 314
 title: "EL DESENGAÑO"
 slug: 314-el-desengano
+category: tristezas
 date: 2007-10-05
 ---
+
+# EL DESENGAÑO
 
 Es una trabazón de amor y llanto.
 Eterno rebuscar de un Dios humano,

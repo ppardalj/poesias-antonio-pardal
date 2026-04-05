@@ -2,7 +2,10 @@
 id: 028
 title: "CAMINOS"
 slug: 028-caminos
+category: poesias-de-amor
 ---
+
+# CAMINOS
 
 Caminos que vais al río,
 Senderos que vais al mar,

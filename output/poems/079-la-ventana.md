@@ -2,7 +2,10 @@
 id: 079
 title: "LA VENTANA"
 slug: 079-la-ventana
+category: tristezas
 ---
+
+# LA VENTANA
 
 Desde el ángulo oscuro de mi ventana,
 veo pasar a diario tu gran belleza,

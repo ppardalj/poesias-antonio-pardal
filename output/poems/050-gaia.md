@@ -2,7 +2,10 @@
 id: 050
 title: "GAIA"
 slug: 050-gaia
+category: poesias-de-amor
 ---
+
+# GAIA
 
 Minúsculo infusorio que navego
 en un grano de polvo, que es la Tierra,

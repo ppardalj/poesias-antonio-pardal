@@ -2,8 +2,11 @@
 id: 291
 title: "EL RÍO"
 slug: 291-el-rio
+category: tristezas
 date: 2007-07-03
 ---
+
+# EL RÍO
 
 Me paso ya mi vida en la ribera,
 tumbado sobre el campo florecido

@@ -2,8 +2,11 @@
 id: 237
 title: "MADRIGAL"
 slug: 237-madrigal
+category: mi-andalucia
 date: 2007-02-09
 ---
+
+# MADRIGAL
 
 Tu talle cimbreante de sirena
 caireles y alamares embellecen

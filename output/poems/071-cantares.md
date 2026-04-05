@@ -2,7 +2,10 @@
 id: 071
 title: "CANTARES"
 slug: 071-cantares
+category: mi-andalucia
 ---
+
+# CANTARES
 
 ¡Cantes de mi tierra!, ¡De la patria mía!
 Cuando los escucho y siento su belleza,

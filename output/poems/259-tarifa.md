@@ -2,8 +2,11 @@
 id: 259
 title: "TARIFA"
 slug: 259-tarifa
+category: mi-andalucia
 date: 2007-04-02
 ---
+
+# TARIFA
 
 ¡Alegres de Tarifa las mañanas
 surcadas por los céfiros alados

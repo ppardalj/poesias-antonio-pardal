@@ -2,8 +2,11 @@
 id: 270
 title: "SOLITUD"
 slug: 270-solitud
+category: poesias-de-amor
 date: 2007-05-02
 ---
+
+# SOLITUD
 
 Esos ojos que lloran silenciosos
 presintiendo la pena que me embarga

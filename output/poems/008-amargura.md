@@ -2,7 +2,10 @@
 id: 008
 title: "AMARGURA"
 slug: 008-amargura
+category: sin-categorizar
 ---
+
+# AMARGURA
 
 Es tan grande el amor que en mi existencia
 sintió mi pecho por todo lo viviente,

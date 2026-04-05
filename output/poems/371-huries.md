@@ -2,8 +2,11 @@
 id: 371
 title: "HURÍES"
 slug: 371-huries
+category: poesias-de-amor
 date: 2008-09-20
 ---
+
+# HURÍES
 
 Doy vueltas a este asunto muchas veces
 y sé que la razón no debo darme,

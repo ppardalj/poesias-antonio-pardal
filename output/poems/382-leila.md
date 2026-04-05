@@ -2,8 +2,11 @@
 id: 382
 title: "LEILA"
 slug: 382-leila
+category: poesias-de-amor
 date: 2009-05-28
 ---
+
+# LEILA
 
 La noche fue terrible...
 Leila, en la negrura, me abrazaba con delirio.

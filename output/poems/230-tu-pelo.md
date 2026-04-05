@@ -2,8 +2,11 @@
 id: 230
 title: "TU PELO"
 slug: 230-tu-pelo
+category: poesias-de-amor
 date: 2007-01-26
 ---
+
+# TU PELO
 
 Blondo cabello que mece la brisa
 como un trigal de amapolas cuajado,

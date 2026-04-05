@@ -2,8 +2,11 @@
 id: 383
 title: "PENA"
 slug: 383-pena
+category: poesias-de-amor
 date: 2010-04-05
 ---
+
+# PENA
 
 Pena infinita de ver que se acaban
 los bellos tiempos de amor que contigo

@@ -2,7 +2,10 @@
 id: 046
 title: "AFUERA ERA DE NOCHE"
 slug: 046-afuera-era-de-noche
+category: tristezas
 ---
+
+# AFUERA ERA DE NOCHE
 
 Afuera era de noche.
 La escarcha refulgía en la pradera

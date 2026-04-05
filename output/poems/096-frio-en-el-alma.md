@@ -2,7 +2,10 @@
 id: 096
 title: "FRIO EN EL ALMA"
 slug: 096-frio-en-el-alma
+category: tristezas
 ---
+
+# FRIO EN EL ALMA
 
 Siento frío en el alma al pensar en la nada.
 Me encuentro fracasado, con la ilusión perdida.

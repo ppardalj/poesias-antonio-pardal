@@ -2,8 +2,11 @@
 id: 380
 title: "EL HOMBRE"
 slug: 380-el-hombre
+category: tristezas
 date: 2009-04-23
 ---
+
+# EL HOMBRE
 
 Tierra eres, vil polvo en el camino.
 No acabas de nacer y ya estás muerto,

@@ -2,8 +2,11 @@
 id: 378
 title: "NIEVE"
 slug: 378-nieve
+category: tristezas
 date: 2009-01-11
 ---
+
+# NIEVE
 
 Esas nubes calladas que agonizan
 deshojando la albura de sus fríos

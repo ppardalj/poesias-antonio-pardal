@@ -2,7 +2,10 @@
 id: 172
 title: "A MI MADRE"
 slug: 172-a-mi-madre
+category: tristezas
 ---
+
+# A MI MADRE
 
 En el rincón sombrío de la cerrada estancia,
 ensimismado me hallo, rememorando el día

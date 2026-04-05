@@ -2,8 +2,11 @@
 id: 308
 title: "MADRUGADA"
 slug: 308-madrugada
+category: poesias-de-amor
 date: 2007-09-10
 ---
+
+# MADRUGADA
 
 La madrugada nos cubre en su manto
 y allá a lo lejos se escucha el gemido

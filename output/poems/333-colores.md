@@ -2,8 +2,11 @@
 id: 333
 title: "COLORES"
 slug: 333-colores
+category: poesias-de-amor
 date: 2007-12-01
 ---
+
+# COLORES
 
 Recorro sus montañas, cubiertas de abedules,
 oyendo ensimismado el canto de vencejos

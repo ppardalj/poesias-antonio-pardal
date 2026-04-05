@@ -2,7 +2,10 @@
 id: 203
 title: "EL FIN (EN GAITA GALLEGA)"
 slug: 203-el-fin-en-gaita-gallega
+category: poesias-de-amor
 ---
+
+# EL FIN (EN GAITA GALLEGA)
 
 ¡Cierra inmediato las puertas del cielo!
 Guarda en ocultos abismos profundos

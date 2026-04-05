@@ -2,7 +2,10 @@
 id: 085
 title: "CAMINO DE SANTIAGO"
 slug: 085-camino-de-santiago
+category: poesias-de-amor
 ---
+
+# CAMINO DE SANTIAGO
 
 Me gustaría verlo antes de partir.
 ¡Era tan grandioso en aquellos tiempos!

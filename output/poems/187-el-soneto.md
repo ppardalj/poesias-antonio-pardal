@@ -2,7 +2,10 @@
 id: 187
 title: "EL SONETO"
 slug: 187-el-soneto
+category: poesias-de-amor
 ---
+
+# EL SONETO
 
 El soneto es del cielo la amalgama
 de una inmensa y hermosa sinfonía,

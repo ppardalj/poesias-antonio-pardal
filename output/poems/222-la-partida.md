@@ -2,8 +2,11 @@
 id: 222
 title: "LA PARTIDA"
 slug: 222-la-partida
+category: tristezas
 date: 2007-01-11
 ---
+
+# LA PARTIDA
 
 Llegada ya es la hora en que, pausada,
 la rosa del jardín se va mustiando,

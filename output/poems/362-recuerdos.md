@@ -2,8 +2,11 @@
 id: 362
 title: "RECUERDOS"
 slug: 362-recuerdos
+category: poesias-de-amor
 date: 2008-06-29
 ---
+
+# RECUERDOS
 
 A veces recuerdo un patio y un jardín
 con flores muy hermosas.

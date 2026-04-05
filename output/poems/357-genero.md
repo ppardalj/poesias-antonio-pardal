@@ -2,8 +2,11 @@
 id: 357
 title: "GÉNERO"
 slug: 357-genero
+category: tristezas
 date: 2008-05-16
 ---
+
+# GÉNERO
 
 Y sucumbieron los valores
 que cual pájaros sin alas volaron ayer.

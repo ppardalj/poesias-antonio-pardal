@@ -2,7 +2,10 @@
 id: 084
 title: "INGRATITUD"
 slug: 084-ingratitud
+category: tristezas
 ---
+
+# INGRATITUD
 
 ¡Cuantos años han pasado!
 ¡Cuanto amor has repartido

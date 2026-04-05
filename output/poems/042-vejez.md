@@ -2,7 +2,10 @@
 id: 042
 title: "VEJEZ"
 slug: 042-vejez
+category: tristezas
 ---
+
+# VEJEZ
 
 Cuando veo esos ojos tan tristes.
 Cuando observo esos pelos canosos y ralos.

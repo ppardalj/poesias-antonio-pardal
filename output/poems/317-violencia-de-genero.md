@@ -2,8 +2,11 @@
 id: 317
 title: "VIOLENCIA DE GÉNERO"
 slug: 317-violencia-de-genero
+category: poesias-de-amor
 date: 2007-10-17
 ---
+
+# VIOLENCIA DE GÉNERO
 
 ¡No pienses más en él, es un inutil
 que no puede apreciar lo que lo amas!

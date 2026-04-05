@@ -2,8 +2,11 @@
 id: 225
 title: "SENSACIONES"
 slug: 225-sensaciones
+category: tristezas
 date: 2007-01-18
 ---
+
+# SENSACIONES
 
 Hastiado de llorar estoy cruzando
 mil páramos. Un eco que me aterra

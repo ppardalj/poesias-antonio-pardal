@@ -2,7 +2,10 @@
 id: 165
 title: "LA HUIDA"
 slug: 165-la-huida
+category: poesias-de-amor
 ---
+
+# LA HUIDA
 
 El camino azaroso de la vida
 no marcha contrayéndose hacia dentro,

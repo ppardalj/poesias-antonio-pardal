@@ -2,8 +2,11 @@
 id: 339
 title: "AÑO NUEVO"
 slug: 339-ano-nuevo
+category: poesias-de-amor
 date: 2008-01-02
 ---
+
+# AÑO NUEVO
 
 Confuso naces yerto ante mi mente.
 Arcano de ilusión que se disfraza

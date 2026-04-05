@@ -2,7 +2,10 @@
 id: 175
 title: "SONETO INGLÉS"
 slug: 175-soneto-ingles
+category: poesias-de-amor
 ---
+
+# SONETO INGLÉS
 
 Si ya por sí el soneto es un arte azarosa
 con sus reglas de rima, de métrica y acentos

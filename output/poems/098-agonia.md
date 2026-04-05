@@ -2,7 +2,10 @@
 id: 098
 title: "AGONÍA"
 slug: 098-agonia
+category: poesias-de-amor
 ---
+
+# AGONÍA
 
 Siento tristeza en el alma
 contemplando tu agonía,

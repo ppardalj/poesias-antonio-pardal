@@ -2,8 +2,11 @@
 id: 367
 title: "GITANA"
 slug: 367-gitana
+category: mi-andalucia
 date: 2008-08-10
 ---
+
+# GITANA
 
 ¿Por qué sigues encerrá
 pasando caló en tu casa

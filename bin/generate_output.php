@@ -52,7 +52,8 @@ foreach ($allPoemFiles as $file) {
         
         $extraPoems[] = [
             'href' => $href,
-            'title' => $title ?: str_replace('.htm', '', $href) // Fallback al nombre del archivo
+            'title' => $title ?: str_replace('.htm', '', $href), // Fallback al nombre del archivo
+            'category' => 'sin-categorizar'
         ];
     }
 }
@@ -81,7 +82,7 @@ foreach ($poems as $index => $poem) {
     echo "[$currentNum/$total] Procesando $href...\n";
     
     $poemHtml = file_get_contents($poemFile);
-    $markdown = $poemParser->parse($poemHtml, basename($href), $poem['title']);
+    $markdown = $poemParser->parse($poemHtml, basename($href), $poem['title'], $poem['category'] ?? null);
     
     // El slug se usa para el nombre del archivo. 
     // Reutilizamos la lógica de PoemParser para obtener el slug exacto que espera el INDEX.md

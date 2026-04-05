@@ -2,7 +2,10 @@
 id: 001
 title: "¡CUÁNTO DUELE!"
 slug: 001-cuanto-duele
+category: tristezas
 ---
+
+# ¡CUÁNTO DUELE!
 
 Cuando el alma se entrega a un amor imposible,
 cuando el ser se estremece tan solo al soñar

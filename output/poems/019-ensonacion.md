@@ -2,7 +2,10 @@
 id: 019
 title: "ENSOÑACIÓN"
 slug: 019-ensonacion
+category: tristezas
 ---
+
+# ENSOÑACIÓN
 
 Esta noche soñé con cosas ya pasadas.
 Surcaba el ancho mar mirando al firmamento,

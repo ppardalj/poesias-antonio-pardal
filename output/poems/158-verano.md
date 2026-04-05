@@ -2,7 +2,10 @@
 id: 158
 title: "VERANO"
 slug: 158-verano
+category: mi-andalucia
 ---
+
+# VERANO
 
 Me gusta el verano.
 Me encanta bañarme en las aguas templadas

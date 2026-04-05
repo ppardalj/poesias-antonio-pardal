@@ -2,7 +2,10 @@
 id: 248
 title: "COMPAÑERA"
 slug: 248-companera
+category: poesias-de-amor
 ---
+
+# COMPAÑERA
 
 Compañera, mi dulce compañera,
 si supieses por ti lo que yo siento

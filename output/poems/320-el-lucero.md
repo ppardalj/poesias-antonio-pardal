@@ -2,8 +2,11 @@
 id: 320
 title: "EL LUCERO"
 slug: 320-el-lucero
+category: poesias-de-amor
 date: 2007-10-24
 ---
+
+# EL LUCERO
 
 Y repetirte mil veces: te quiero,
 solos los dos, en pasión derretida

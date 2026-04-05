@@ -2,7 +2,10 @@
 id: 102
 title: "OTOÑO"
 slug: 102-otono
+category: tristezas
 ---
+
+# OTOÑO
 
 El viento, furioso, sobre el campo silba.
 Las hojas caducas desnudan al árbol.

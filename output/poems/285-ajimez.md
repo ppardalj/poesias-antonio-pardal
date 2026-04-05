@@ -2,8 +2,11 @@
 id: 285
 title: "AJIMEZ"
 slug: 285-ajimez
+category: poesias-de-amor
 date: 2007-06-17
 ---
+
+# AJIMEZ
 
 Detrás de tu ventana cada noche,
 oculto tras las jambas de sus rejas,

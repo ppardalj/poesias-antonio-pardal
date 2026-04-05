@@ -2,8 +2,11 @@
 id: 234
 title: "PASIÓN"
 slug: 234-pasion
+category: poesias-de-amor
 date: 2007-02-02
 ---
+
+# PASIÓN
 
 Despacio voy ciñendo su cintura
 con trémolo de tiernas sensaciones,

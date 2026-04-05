@@ -2,8 +2,11 @@
 id: 305
 title: "BRINDIS"
 slug: 305-brindis
+category: tristezas
 date: 2007-08-26
 ---
+
+# BRINDIS
 
 Te busco en lo más hondo de mi copa
 recordando los días del ayer,

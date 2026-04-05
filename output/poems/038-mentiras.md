@@ -2,7 +2,10 @@
 id: 038
 title: "MENTIRAS"
 slug: 038-mentiras
+category: poesias-de-amor
 ---
+
+# MENTIRAS
 
 Cuando a veces te miro a la cara abstraido
 y tú me preguntas, curiosa, ¿Que piensas?

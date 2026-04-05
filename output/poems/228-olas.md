@@ -2,8 +2,11 @@
 id: 228
 title: "OLAS"
 slug: 228-olas
+category: tristezas
 date: 2007-01-23
 ---
+
+# OLAS
 
 Descansando en la arena de una playa escondida
 mis ojos van mirando deslizarse las olas

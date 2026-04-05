@@ -2,8 +2,11 @@
 id: 303
 title: "CORAZÓN"
 slug: 303-corazon
+category: poesias-de-amor
 date: 2007-08-16
 ---
+
+# CORAZÓN
 
 Querido corazón, ya sé que estás cansado.
 Ya llevas muchos años latiéndome en el pecho

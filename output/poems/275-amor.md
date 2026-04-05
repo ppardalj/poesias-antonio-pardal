@@ -2,8 +2,11 @@
 id: 275
 title: "AMOR"
 slug: 275-amor
+category: poesias-de-amor
 date: 2007-05-17
 ---
+
+# AMOR
 
 Jamás olvidaré tan dulces hechos.
 Las bocas se fundían ciegamente

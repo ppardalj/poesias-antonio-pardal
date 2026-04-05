@@ -2,7 +2,10 @@
 id: 033
 title: "CUANDO YO ME VAYA"
 slug: 033-cuando-yo-me-vaya
+category: poesias-de-amor
 ---
+
+# CUANDO YO ME VAYA
 
 Cuando yo me vaya,
 no llores siquiera un minuto.

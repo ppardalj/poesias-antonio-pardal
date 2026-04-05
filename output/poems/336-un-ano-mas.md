@@ -2,8 +2,11 @@
 id: 336
 title: "UN AÑO MÁS"
 slug: 336-un-ano-mas
+category: poesias-de-amor
 date: 2007-12-23
 ---
+
+# UN AÑO MÁS
 
 Sublime resplandor que mi alma envuelve,
 efluvio de un amor inmarchitable

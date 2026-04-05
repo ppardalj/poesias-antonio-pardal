@@ -2,7 +2,10 @@
 id: 087
 title: "LA TEMPESTAD"
 slug: 087-la-tempestad
+category: poesias-de-amor
 ---
+
+# LA TEMPESTAD
 
 La tempestad lo rodea.
 En el cielo el trueno suena,

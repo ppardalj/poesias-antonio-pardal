@@ -2,7 +2,10 @@
 id: 146
 title: "ESPERANZA DE TRIANA"
 slug: 146-esperanza-de-triana
+category: sin-categorizar
 ---
+
+# ESPERANZA DE TRIANA
 
 Y de pronto se ha callao
 el sonar de las trompetas

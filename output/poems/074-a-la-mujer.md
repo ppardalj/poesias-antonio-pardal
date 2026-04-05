@@ -2,7 +2,10 @@
 id: 074
 title: "A LA MUJER"
 slug: 074-a-la-mujer
+category: poesias-de-amor
 ---
+
+# A LA MUJER
 
 La esencia del amor que representas,
 marcha unida al valor de tu ternura,

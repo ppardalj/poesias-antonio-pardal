@@ -2,7 +2,10 @@
 id: 044
 title: "ORACIÓN PARA LA CUARESMA DEL 2004"
 slug: 044-oracion-para-la-cuaresma-del-2004
+category: religiosas
 ---
+
+# ORACIÓN PARA LA CUARESMA DEL 2004
 
 Dios infinito que estás en el Cielo.
 Dios bondadoso que ves mi oración.

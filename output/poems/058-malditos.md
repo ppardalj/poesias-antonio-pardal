@@ -2,7 +2,10 @@
 id: 058
 title: "¡MALDITOS!"
 slug: 058-malditos
+category: poesias-de-amor
 ---
+
+# ¡MALDITOS!
 
 ¡Oh, dioses hambrientos de sangre del hombre!
 ¡Oh, fuerzas ocultas que regís la tierra!

@@ -2,8 +2,11 @@
 id: 377
 title: "MI NIÑA"
 slug: 377-mi-nina
+category: poesias-de-amor
 date: 2009-02-17
 ---
+
+# MI NIÑA
 
 Y la niña bonita se sonreía.
 ¡La niña más bonita del mundo entero!

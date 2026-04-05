@@ -2,7 +2,10 @@
 id: 090
 title: "SILENCIO (EN GAITA GALLEGA)"
 slug: 090-silencio-en-gaita-gallega
+category: poesias-de-amor
 ---
+
+# SILENCIO (EN GAITA GALLEGA)
 
 Y yo me iré en silencio
 sin molestar a nadie,

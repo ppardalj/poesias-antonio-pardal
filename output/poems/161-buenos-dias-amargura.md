@@ -2,7 +2,10 @@
 id: 161
 title: "BUENOS DÍAS, AMARGURA"
 slug: 161-buenos-dias-amargura
+category: tristezas
 ---
+
+# BUENOS DÍAS, AMARGURA
 
 Buenos días, querida amargura...
 Hoy lastimas muy fuerte mi mente,

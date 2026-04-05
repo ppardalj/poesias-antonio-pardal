@@ -2,7 +2,10 @@
 id: 004
 title: "AQUEL BESO"
 slug: 004-aquel-beso
+category: poesias-de-amor
 ---
+
+# AQUEL BESO
 
 Vuelve a mi memoria, cual recuerdo lejano,
 tu carita de niña, sencilla e inocente

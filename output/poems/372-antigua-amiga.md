@@ -2,8 +2,11 @@
 id: 372
 title: "ANTIGUA AMIGA"
 slug: 372-antigua-amiga
+category: poesias-de-amor
 date: 2008-10-01
 ---
+
+# ANTIGUA AMIGA
 
 No vayas a creer que te he olvidado
 envuelta entre la bruma de un lejano

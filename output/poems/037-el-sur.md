@@ -2,7 +2,10 @@
 id: 037
 title: "EL SUR"
 slug: 037-el-sur
+category: mi-andalucia
 ---
+
+# EL SUR
 
 ¿Qué saben esas personas como es mi Andalucía?
 No pueden soñar siquiera, de mi tierra su hermosura.

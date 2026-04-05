@@ -2,7 +2,10 @@
 id: 140
 title: "CÁNTAME"
 slug: 140-cantame
+category: poesias-de-amor
 ---
+
+# CÁNTAME
 
 Cántame vida mía.
 Cántame mi tesoro.

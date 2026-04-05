@@ -2,8 +2,11 @@
 id: 268
 title: "DESAMOR"
 slug: 268-desamor
+category: poesias-de-amor
 date: 2007-04-25
 ---
+
+# DESAMOR
 
 Lunas murieron amando a tus ojos.
 Rojos fulgores de besos ardientes,

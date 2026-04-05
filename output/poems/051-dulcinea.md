@@ -2,7 +2,10 @@
 id: 051
 title: "DULCINEA"
 slug: 051-dulcinea
+category: poesias-de-amor
 ---
+
+# DULCINEA
 
 El halo inmarcesible de la luna,
 el bello titilar de cada estrella,

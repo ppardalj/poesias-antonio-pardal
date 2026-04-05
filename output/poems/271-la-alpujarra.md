@@ -2,8 +2,11 @@
 id: 271
 title: "LA ALPUJARRA"
 slug: 271-la-alpujarra
+category: mi-andalucia
 date: 2007-05-09
 ---
+
+# LA ALPUJARRA
 
 Dormido en la ladera de la cumbre,
 cual plácido nidal de golondrina,

@@ -2,8 +2,11 @@
 id: 369
 title: "Y LLORÉ"
 slug: 369-y-llore
+category: tristezas
 date: 2008-08-11
 ---
+
+# Y LLORÉ
 
 Y lloré de rabia...
 Y lloré de pena...

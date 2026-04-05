@@ -2,8 +2,11 @@
 id: 266
 title: "EL TORERO"
 slug: 266-el-torero
+category: poesias-de-amor
 date: 2007-04-16
 ---
+
+# EL TORERO
 
 ¡Ya el negro se hace dueño del albero
 y corre por sus venas tanta casta

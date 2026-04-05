@@ -2,7 +2,10 @@
 id: 185
 title: "ABANDONO"
 slug: 185-abandono
+category: tristezas
 ---
+
+# ABANDONO
 
 En el triste recuerdo de tu amor olvidado
 oculto la nostalgia de aquel lejano ayer,

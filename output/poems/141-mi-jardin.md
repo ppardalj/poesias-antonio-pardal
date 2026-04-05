@@ -2,7 +2,10 @@
 id: 141
 title: "MI JARDÍN"
 slug: 141-mi-jardin
+category: poesias-de-amor
 ---
+
+# MI JARDÍN
 
 Yo tenía un bello jardín
 plagado de hermosas flores,

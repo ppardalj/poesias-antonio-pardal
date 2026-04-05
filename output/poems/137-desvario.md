@@ -2,7 +2,10 @@
 id: 137
 title: "DESVARÍO"
 slug: 137-desvario
+category: poesias-de-amor
 ---
+
+# DESVARÍO
 
 Te busqué en la profundidad de los abismos,
 y no estabas.

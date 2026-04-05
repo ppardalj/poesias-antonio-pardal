@@ -2,7 +2,10 @@
 id: 107
 title: "HEDONISMO"
 slug: 107-hedonismo
+category: poesias-de-amor
 ---
+
+# HEDONISMO
 
 ¿Amar?
 ¿Hacer el amor?

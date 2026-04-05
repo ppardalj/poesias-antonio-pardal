@@ -2,7 +2,10 @@
 id: 105
 title: "MUÑECA"
 slug: 105-muneca
+category: poesias-de-amor
 ---
+
+# MUÑECA
 
 Muñeca con carita
 de porcelana,

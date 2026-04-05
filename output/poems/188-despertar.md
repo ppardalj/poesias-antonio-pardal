@@ -2,7 +2,10 @@
 id: 188
 title: "DESPERTAR"
 slug: 188-despertar
+category: tristezas
 ---
+
+# DESPERTAR
 
 SONETO EN GAITA GALLEGA
 Es el misterio que siempre acompaña

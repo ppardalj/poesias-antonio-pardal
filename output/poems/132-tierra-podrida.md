@@ -2,7 +2,10 @@
 id: 132
 title: "TIERRA PODRIDA"
 slug: 132-tierra-podrida
+category: tristezas
 ---
+
+# TIERRA PODRIDA
 
 Nací en una España rota
 y de otra rota me voy.

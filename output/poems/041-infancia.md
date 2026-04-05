@@ -2,7 +2,10 @@
 id: 041
 title: "INFANCIA"
 slug: 041-infancia
+category: poesias-de-amor
 ---
+
+# INFANCIA
 
 ¡Regalo que Dios nos quiere ofrecer!
 ¡Candor inocente de la tierna infancia!

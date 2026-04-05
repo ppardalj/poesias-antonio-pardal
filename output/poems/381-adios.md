@@ -2,8 +2,11 @@
 id: 381
 title: "ADIÓS"
 slug: 381-adios
+category: tristezas
 date: 2008-11-10
 ---
+
+# ADIÓS
 
 Hoy se llena mi pecho de alegría
 al oir el cantar de los pardales

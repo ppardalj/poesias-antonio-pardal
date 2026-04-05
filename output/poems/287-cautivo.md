@@ -2,8 +2,11 @@
 id: 287
 title: "CAUTIVO"
 slug: 287-cautivo
+category: poesias-de-amor
 date: 2007-06-25
 ---
+
+# CAUTIVO
 
 Cautivo soy de tu tierna mirada.
 Cautivo soy del cristal de tu risa.

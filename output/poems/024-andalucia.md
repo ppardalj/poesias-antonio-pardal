@@ -2,7 +2,10 @@
 id: 024
 title: "ANDALUCÍA"
 slug: 024-andalucia
+category: mi-andalucia
 ---
+
+# ANDALUCÍA
 
 En mi Andalucía del alma
 hay una ciudad preciosa,

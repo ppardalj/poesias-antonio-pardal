@@ -2,8 +2,11 @@
 id: 385
 title: "LA LANZA"
 slug: 385-la-lanza
+category: sin-categorizar
 date: 2010-05-28
 ---
+
+# LA LANZA
 
 Cual viento que recorre la pradera
 galopa con su loco frenesí,

@@ -2,7 +2,10 @@
 id: 099
 title: "NUEVO DÍA"
 slug: 099-nuevo-dia
+category: poesias-de-amor
 ---
+
+# NUEVO DÍA
 
 El trino de la alondra se oye tras la ventana.
 Un aroma a jazmín reina en la habitación.

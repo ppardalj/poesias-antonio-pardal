@@ -2,7 +2,10 @@
 id: 025
 title: "AÑORANZAS NAVIDEÑAS"
 slug: 025-anoranzas-navidenas
+category: religiosas
 ---
+
+# AÑORANZAS NAVIDEÑAS
 
 Navidades que nos traen añoranzas de la infancia,
 Navidades que nos hacen recordar a nuestra madre,

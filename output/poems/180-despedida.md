@@ -2,7 +2,10 @@
 id: 180
 title: "DESPEDIDA"
 slug: 180-despedida
+category: poesias-de-amor
 ---
+
+# DESPEDIDA
 
 Cuando me haya marchado al lugar sin retorno
 y al renacer la aurora encuentres solitario

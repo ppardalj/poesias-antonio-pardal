@@ -2,8 +2,11 @@
 id: 386
 title: "MEMORIA HISTÓRICA II"
 slug: 386-memoria-historica-ii
+category: sin-categorizar
 date: 2010-07-02
 ---
+
+# MEMORIA HISTÓRICA II
 
 Reverbera en mi alma el eco impuro
 de una horrible palabra que me aterra,

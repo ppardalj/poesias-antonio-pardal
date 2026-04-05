@@ -2,7 +2,10 @@
 id: 110
 title: "TUS SENOS"
 slug: 110-tus-senos
+category: poesias-de-amor
 ---
+
+# TUS SENOS
 
 Me excitan y enardecen, me elevan hasta el cielo,
 al contemplarlos libres, en toda su hermosura.

@@ -2,8 +2,11 @@
 id: 325
 title: "PUERTAS AL CAMPO"
 slug: 325-puertas-al-campo
+category: poesias-de-amor
 date: 2007-11-06
 ---
+
+# PUERTAS AL CAMPO
 
 Quisieron censurar sus sentimientos
 más hondos.Y carentes de piedad,

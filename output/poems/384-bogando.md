@@ -2,8 +2,11 @@
 id: 384
 title: "BOGANDO"
 slug: 384-bogando
+category: sin-categorizar
 date: 2010-05-21
 ---
+
+# BOGANDO
 
 Lejos, muy lejos diviso la costa
 desde la cofa del bello velero

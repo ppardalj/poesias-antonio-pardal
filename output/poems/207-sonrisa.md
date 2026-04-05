@@ -2,7 +2,10 @@
 id: 207
 title: "SONRISA"
 slug: 207-sonrisa
+category: poesias-de-amor
 ---
+
+# SONRISA
 
 Tierna sonrisa que alumbra tu cara
 cuando mirando tus ojos te hablo

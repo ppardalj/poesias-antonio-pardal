@@ -2,8 +2,11 @@
 id: 226
 title: "GACELA"
 slug: 226-gacela
+category: poesias-de-amor
 date: 2007-01-19
 ---
+
+# GACELA
 
 Gacela de mis montes malagueños,
 tus ojos son más dulces que la miel;

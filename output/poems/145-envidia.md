@@ -2,7 +2,10 @@
 id: 145
 title: "ENVIDIA"
 slug: 145-envidia
+category: poesias-de-amor
 ---
+
+# ENVIDIA
 
 La envidia es sentimiento muy humano
 que unas veces produce admiración,

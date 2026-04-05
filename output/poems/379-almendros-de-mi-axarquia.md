@@ -2,8 +2,11 @@
 id: 379
 title: "ALMENDROS DE MI AXARQUÍA"
 slug: 379-almendros-de-mi-axarquia
+category: mi-andalucia
 date: 2009-03-14
 ---
+
+# ALMENDROS DE MI AXARQUÍA
 
 Despacio va cambiando el bello manto,
 destello de las nieves invernales,

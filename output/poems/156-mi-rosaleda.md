@@ -2,7 +2,10 @@
 id: 156
 title: "MI ROSALEDA"
 slug: 156-mi-rosaleda
+category: poesias-de-amor
 ---
+
+# MI ROSALEDA
 
 Cruzando el desierto de una vida amarga,
 no encontré el oasis de las aguas frescas.

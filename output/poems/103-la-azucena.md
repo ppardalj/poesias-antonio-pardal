@@ -2,7 +2,10 @@
 id: 103
 title: "LA AZUCENA"
 slug: 103-la-azucena
+category: poesias-de-amor
 ---
+
+# LA AZUCENA
 
 Hubo una rosa espinosa
 en el jardín del Eden,

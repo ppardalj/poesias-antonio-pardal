@@ -2,7 +2,10 @@
 id: 078
 title: "EL RETRATO"
 slug: 078-el-retrato
+category: tristezas
 ---
+
+# EL RETRATO
 
 Hoy, revolviendo en un viejo cajón
 he descubierto una joya olvidada,

@@ -2,7 +2,10 @@
 id: 198
 title: "BESOS"
 slug: 198-besos
+category: poesias-de-amor
 ---
+
+# BESOS
 
 Labios que encuentran la fe en otros labios
 en las etapas del largo camino

@@ -2,7 +2,10 @@
 id: 076
 title: "VIERNES SANTO EN ÉCIJA (AÑOS 50)"
 slug: 076-viernes-santo-en-ecija-anos-50
+category: religiosas
 ---
+
+# VIERNES SANTO EN ÉCIJA (AÑOS 50)
 
 VIERNES SANTO EN ÉCIJA, años 50
 

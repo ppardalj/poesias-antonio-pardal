@@ -2,8 +2,11 @@
 id: 249
 title: "NO ESTÁS SOLA, MI AMOR"
 slug: 249-no-estas-sola-mi-amor
+category: tristezas
 date: 2007-03-19
 ---
+
+# NO ESTÁS SOLA, MI AMOR
 
 Me siento acompañado en mi dolor
 bañado por el halo de la luna

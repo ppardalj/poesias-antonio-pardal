@@ -2,7 +2,10 @@
 id: 164
 title: "AÑORANZA"
 slug: 164-anoranza
+category: poesias-de-amor
 ---
+
+# AÑORANZA
 
 Hoy, que siento en mi alma la añoranza
 de un cariño sincero, ya pasado,

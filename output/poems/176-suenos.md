@@ -2,7 +2,10 @@
 id: 176
 title: "SUEÑOS"
 slug: 176-suenos
+category: poesias-de-amor
 ---
+
+# SUEÑOS
 
 Sueña con el que siempre has deseado,
 abrazada al calor de tu almohada.

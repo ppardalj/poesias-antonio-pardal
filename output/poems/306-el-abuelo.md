@@ -2,8 +2,11 @@
 id: 306
 title: "EL ABUELO"
 slug: 306-el-abuelo
+category: tristezas
 date: 2007-08-28
 ---
+
+# EL ABUELO
 
 Callosas son las manos del abuelo.
 Callosas y sus dedos arrugados.

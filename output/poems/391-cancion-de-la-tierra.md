@@ -2,8 +2,11 @@
 id: 391
 title: "CANCIÓN DE LA TIERRA"
 slug: 391-cancion-de-la-tierra
+category: sin-categorizar
 date: 2010-12-10
 ---
+
+# CANCIÓN DE LA TIERRA
 
 ¡Oh, hermosa aguamarina que surcas lo infinito!
 ¡La más hermosa gema que los nacidos vieron!

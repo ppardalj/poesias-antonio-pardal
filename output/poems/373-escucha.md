@@ -2,8 +2,11 @@
 id: 373
 title: "ESCUCHA"
 slug: 373-escucha
+category: poesias-de-amor
 date: 2008-10-10
 ---
+
+# ESCUCHA
 
 Escucha la tristeza de mi sueño.
 Escucha el palpitar de cabalgadas

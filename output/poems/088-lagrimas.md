@@ -2,7 +2,10 @@
 id: 088
 title: "LÁGRIMAS"
 slug: 088-lagrimas
+category: tristezas
 ---
+
+# LÁGRIMAS
 
 Ya ni tan siquiera puede
 con su garganta gritar

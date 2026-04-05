@@ -2,8 +2,11 @@
 id: 293
 title: "PIGMALIÓN"
 slug: 293-pigmalion
+category: poesias-de-amor
 date: 2007-07-09
 ---
+
+# PIGMALIÓN
 
 Y solo con tus manos, arrogante,
 en nacarado mármol esculpiste

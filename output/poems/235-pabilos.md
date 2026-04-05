@@ -2,8 +2,11 @@
 id: 235
 title: "PABILOS"
 slug: 235-pabilos
+category: tristezas
 date: 2007-02-06
 ---
+
+# PABILOS
 
 El pueblo vive feliz y tranquilo
 en su diario existir. Mientras tanto

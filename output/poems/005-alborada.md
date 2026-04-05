@@ -2,7 +2,10 @@
 id: 005
 title: "ALBORADA"
 slug: 005-alborada
+category: poesias-de-amor
 ---
+
+# ALBORADA
 
 Hoy he visto nacer un nuevo día
 mirando hacia el levante,

@@ -2,7 +2,10 @@
 id: 016
 title: "AMOR"
 slug: 016-amor
+category: poesias-de-amor
 ---
+
+# AMOR
 
 Me gustan tus senos turgentes.
 Me gusta tu boca, tan linda y hermosa

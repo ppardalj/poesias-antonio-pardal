@@ -2,8 +2,11 @@
 id: 216
 title: "A ELLA"
 slug: 216-a-ella
+category: poesias-de-amor
 date: 2006-12-25
 ---
+
+# A ELLA
 
 Para que nunca te olvides, mi amor,
 de la pasión que sentí cuando era

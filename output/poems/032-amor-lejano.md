@@ -2,8 +2,11 @@
 id: 032
 title: "AMOR LEJANO"
 slug: 032-amor-lejano
+category: poesias-de-amor
 date: 2007-03-25
 ---
+
+# AMOR LEJANO
 
 Aroma de embrujo que emana una flor,
 de mí tan lejana, que no llego a olerla,

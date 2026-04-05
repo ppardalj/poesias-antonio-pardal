@@ -2,8 +2,11 @@
 id: 388
 title: "NINFA"
 slug: 388-ninfa
+category: sin-categorizar
 date: 2010-06-15
 ---
+
+# NINFA
 
 Oh, ninfa que revuelas por el prado
 con alas diamantinas de amaranto,

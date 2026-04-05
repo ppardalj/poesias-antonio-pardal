@@ -2,7 +2,10 @@
 id: 065
 title: "MI AMIGA"
 slug: 065-mi-amiga
+category: poesias-de-amor
 ---
+
+# MI AMIGA
 
 Yo tuve hace tiempo una amiga buena,
 con un tierno afecto que nunca fallaba,

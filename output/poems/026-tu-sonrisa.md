@@ -2,7 +2,10 @@
 id: 026
 title: "TU SONRISA"
 slug: 026-tu-sonrisa
+category: poesias-de-amor
 ---
+
+# TU SONRISA
 
 Si la vida me destroza mis más bellas ilusiones,
 cuando sufro los embates de bajezas y traiciones...

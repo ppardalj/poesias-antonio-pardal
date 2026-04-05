@@ -2,7 +2,10 @@
 id: 043
 title: "TERROR"
 slug: 043-terror
+category: poesias-de-amor
 ---
+
+# TERROR
 
 El sol se ha perdido y nos cubre el frío.
 Un sordo tronar de averno restalla.

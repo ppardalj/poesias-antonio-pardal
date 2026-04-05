@@ -2,7 +2,10 @@
 id: 179
 title: "EL JARDÍN"
 slug: 179-el-jardin
+category: poesias-de-amor
 ---
+
+# EL JARDÍN
 
 Furtiva en el jardín de un gran poeta
 mi alma arteramente se escondía,

@@ -2,7 +2,10 @@
 id: 027
 title: "PALOMA BLANCA"
 slug: 027-paloma-blanca
+category: sin-categorizar
 ---
+
+# PALOMA BLANCA
 
 Volviste, paloma blanca.
 Volviste a tu palomar.

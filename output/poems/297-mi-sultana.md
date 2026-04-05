@@ -2,8 +2,11 @@
 id: 297
 title: "MI SULTANA"
 slug: 297-mi-sultana
+category: poesias-de-amor
 date: 2007-07-23
 ---
+
+# MI SULTANA
 
 Debajo de mi ventana
 hay mil rosas encendidas

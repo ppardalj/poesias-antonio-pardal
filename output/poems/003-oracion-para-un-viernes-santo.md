@@ -2,7 +2,10 @@
 id: 003
 title: "ORACIÓN PARA UN VIERNES SANTO"
 slug: 003-oracion-para-un-viernes-santo
+category: religiosas
 ---
+
+# ORACIÓN PARA UN VIERNES SANTO
 
 Señor, que a los humanos ofrendaste
 tu Vida, tu Pasión y hasta tu muerte,

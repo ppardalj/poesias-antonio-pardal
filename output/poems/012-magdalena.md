@@ -2,7 +2,10 @@
 id: 012
 title: "MAGDALENA"
 slug: 012-magdalena
+category: sin-categorizar
 ---
+
+# MAGDALENA
 
 Cuando mi pecho se llena de pena
 al ver los hechos de alguna persona,

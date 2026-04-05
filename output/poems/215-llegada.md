@@ -2,8 +2,11 @@
 id: 215
 title: "LLEGADA"
 slug: 215-llegada
+category: poesias-de-amor
 date: 2006-12-21
 ---
+
+# LLEGADA
 
 En la lejana etapa en que vagabas
 por distantes caminos, siempre estuve

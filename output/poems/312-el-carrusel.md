@@ -2,8 +2,11 @@
 id: 312
 title: "EL CARRUSEL"
 slug: 312-el-carrusel
+category: poesias-de-amor
 date: 2007-09-26
 ---
+
+# EL CARRUSEL
 
 Jaquita de cartón que das la vida
 monótona en rotar de cangilones,

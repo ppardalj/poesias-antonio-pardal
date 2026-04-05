@@ -2,8 +2,11 @@
 id: 269
 title: "EL GENIO"
 slug: 269-el-genio
+category: poesias-de-amor
 date: 2007-04-29
 ---
+
+# EL GENIO
 
 A veces me pregunto desolado
 dónde moran los genios del presente.

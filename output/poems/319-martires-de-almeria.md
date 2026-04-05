@@ -2,8 +2,11 @@
 id: 319
 title: "MÁRTIRES DE ALMERÍA"
 slug: 319-martires-de-almeria
+category: tristezas
 date: 2007-10-21
 ---
+
+# MÁRTIRES DE ALMERÍA
 
 Sólo la luna miraba
 cómo tiraban los fardos.

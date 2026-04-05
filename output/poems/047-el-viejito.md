@@ -2,7 +2,10 @@
 id: 047
 title: "EL VIEJITO"
 slug: 047-el-viejito
+category: tristezas
 ---
+
+# EL VIEJITO
 
 El pobre viejito está triste.
 No sabe por qué.

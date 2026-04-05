@@ -2,8 +2,11 @@
 id: 347
 title: "RECUERDOS"
 slug: 347-recuerdos
+category: tristezas
 date: 2008-02-28
 ---
+
+# RECUERDOS
 
 Hoy siento como mueren en mi mente
 las ascuas de un amor que queda solo

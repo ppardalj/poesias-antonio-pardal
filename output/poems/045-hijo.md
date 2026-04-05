@@ -2,7 +2,10 @@
 id: 045
 title: "HIJO"
 slug: 045-hijo
+category: tristezas
 ---
+
+# HIJO
 
 Tengo vívida en mi mente tu carita,
 aún recuerdo con ternura el aroma de tu piel.

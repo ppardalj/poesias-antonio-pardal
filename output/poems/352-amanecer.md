@@ -2,8 +2,11 @@
 id: 352
 title: "AMANECER"
 slug: 352-amanecer
+category: poesias-de-amor
 date: 2008-04-16
 ---
+
+# AMANECER
 
 Cuando amanece en mi tierra querida
 y la campiña se torna bermeja,

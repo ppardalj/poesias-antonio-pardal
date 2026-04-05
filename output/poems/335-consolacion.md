@@ -2,8 +2,11 @@
 id: 335
 title: "CONSOLACIÓN"
 slug: 335-consolacion
+category: tristezas
 date: 2007-12-06
 ---
+
+# CONSOLACIÓN
 
 No me siento con el ánima afligida
 ni me quejo con balar de cervatillo

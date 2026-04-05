@@ -2,7 +2,10 @@
 id: 136
 title: "¡QUIÉN PUDIERA...!"
 slug: 136-quien-pudiera
+category: tristezas
 ---
+
+# ¡QUIÉN PUDIERA...!
 
 ¡Quién pudiera humedecer con lágrimas la cara...!
 ¡Cómo envidio al que lava sus ojos con el llanto!

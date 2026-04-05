@@ -2,7 +2,10 @@
 id: 162
 title: "ABUELOS SIN NIETOS"
 slug: 162-abuelos-sin-nietos
+category: poesias-de-amor
 ---
+
+# ABUELOS SIN NIETOS
 
 ¿Por qué padece el abuelo
 los conflictos y dolores

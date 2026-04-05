@@ -2,8 +2,11 @@
 id: 290
 title: "SIETE ROSAS"
 slug: 290-siete-rosas
+category: tristezas
 date: 2007-07-03
 ---
+
+# SIETE ROSAS
 
 Las siete, con crueldad ajusticiadas
 sin pena, sin condena y sin juicio,

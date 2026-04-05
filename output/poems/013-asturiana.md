@@ -2,7 +2,10 @@
 id: 013
 title: "ASTURIANA"
 slug: 013-asturiana
+category: poesias-de-amor
 ---
+
+# ASTURIANA
 
 ¡Sombras de un pasado muy remoto...!
 ¡Luz de primaveras añoradas...!

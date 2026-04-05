@@ -2,8 +2,11 @@
 id: 295
 title: "LÁGRIMAS DE MUJER"
 slug: 295-lagrimas-de-mujer
+category: poesias-de-amor
 date: 2007-07-17
 ---
+
+# LÁGRIMAS DE MUJER
 
 Me gustan de sus ojos la mirada.
 El beso que en su boca sabe a miel.

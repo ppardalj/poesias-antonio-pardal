@@ -2,7 +2,10 @@
 id: 066
 title: "ORACIÓN PARA UN NUEVO AÑO"
 slug: 066-oracion-para-un-nuevo-ano
+category: religiosas
 ---
+
+# ORACIÓN PARA UN NUEVO AÑO
 
 Señor: Yo, en la alborada de este año,
 quisiera ser como la nieve blanca,

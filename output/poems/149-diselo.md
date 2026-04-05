@@ -2,7 +2,10 @@
 id: 149
 title: "DÍSELO"
 slug: 149-diselo
+category: poesias-de-amor
 ---
+
+# DÍSELO
 
 Habla y no calles, mujer.
 No guardes tus sentimientos.

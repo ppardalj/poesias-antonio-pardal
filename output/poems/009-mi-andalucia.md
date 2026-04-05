@@ -2,7 +2,10 @@
 id: 009
 title: "MI ANDALUCÍA"
 slug: 009-mi-andalucia
+category: mi-andalucia
 ---
+
+# MI ANDALUCÍA
 
 Hay un lugar en mi Andalucía
 en que las rosas florecen y el ave gorjea,

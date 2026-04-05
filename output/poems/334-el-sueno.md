@@ -2,8 +2,11 @@
 id: 334
 title: "EL SUEÑO"
 slug: 334-el-sueno
+category: poesias-de-amor
 date: 2007-11-26
 ---
+
+# EL SUEÑO
 
 Se me paró el corazón y yo soñaba.
 Soñaba que moría.

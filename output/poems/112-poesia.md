@@ -2,7 +2,10 @@
 id: 112
 title: "POESÍA"
 slug: 112-poesia
+category: poesias-de-amor
 ---
+
+# POESÍA
 
 SONETO
 Poesía es narrar tus sentimientos,

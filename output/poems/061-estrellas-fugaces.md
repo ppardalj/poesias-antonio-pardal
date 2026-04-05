@@ -2,7 +2,10 @@
 id: 061
 title: "ESTRELLAS FUGACES"
 slug: 061-estrellas-fugaces
+category: poesias-de-amor
 ---
+
+# ESTRELLAS FUGACES
 
 Cruzan raudas por el cielo
 cual centellas luminosas,

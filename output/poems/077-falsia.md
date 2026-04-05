@@ -2,7 +2,10 @@
 id: 077
 title: "FALSÍA"
 slug: 077-falsia
+category: poesias-de-amor
 ---
+
+# FALSÍA
 
 ¿Cuantas veces te dije que te quería?
 ¿Cuántas noches lloré, triste, en mi cama?

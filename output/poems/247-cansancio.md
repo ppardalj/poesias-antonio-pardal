@@ -2,7 +2,10 @@
 id: 247
 title: "CANSANCIO"
 slug: 247-cansancio
+category: tristezas
 ---
+
+# CANSANCIO
 
 La larga madurez que hoy atravieso
 es tunel que me llena de amargura

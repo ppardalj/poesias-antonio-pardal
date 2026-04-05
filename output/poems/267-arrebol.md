@@ -2,8 +2,11 @@
 id: 267
 title: "ARREBOL"
 slug: 267-arrebol
+category: poesias-de-amor
 date: 2007-04-23
 ---
+
+# ARREBOL
 
 Todos disfrutan alegres sus vidas
 con dulces sueños de hermosas quimeras,

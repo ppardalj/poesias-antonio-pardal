@@ -2,8 +2,11 @@
 id: 366
 title: "ERROR"
 slug: 366-error
+category: poesias-de-amor
 date: 2008-08-02
 ---
+
+# ERROR
 
 Leyendo sus poemas vi una cara
 henchida de bondad en su belleza.

@@ -2,7 +2,10 @@
 id: 138
 title: "¡QUE PENA...!"
 slug: 138-que-pena
+category: poesias-de-amor
 ---
+
+# ¡QUE PENA...!
 
 Niña de los ojos negros,
 la de los ojos gachones.

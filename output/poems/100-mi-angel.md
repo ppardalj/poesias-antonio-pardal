@@ -2,7 +2,10 @@
 id: 100
 title: "MI ÁNGEL"
 slug: 100-mi-angel
+category: poesias-de-amor
 ---
+
+# MI ÁNGEL
 
 Fui recorriendo caminos
 y recogiendo fracasos.

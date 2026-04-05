@@ -2,8 +2,11 @@
 id: 252
 title: "SINRAZÓN"
 slug: 252-sinrazon
+category: tristezas
 date: 2007-03-24
 ---
+
+# SINRAZÓN
 
 Y nunca acaba la cruel cabalgata
 de esta terrible y malsana conjura

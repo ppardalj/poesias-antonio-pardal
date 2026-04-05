@@ -2,7 +2,10 @@
 id: 057
 title: "TU MIRADA"
 slug: 057-tu-mirada
+category: poesias-de-amor
 ---
+
+# TU MIRADA
 
 Si en Gaia ningún hombre ya cantase
 y en el mar toda vida se extinguiera.

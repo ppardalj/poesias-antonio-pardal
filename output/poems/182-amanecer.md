@@ -2,7 +2,10 @@
 id: 182
 title: "AMANECER"
 slug: 182-amanecer
+category: poesias-de-amor
 ---
+
+# AMANECER
 
 En este dulce prado estoy sedente
 aguardando que nazca un nuevo día,

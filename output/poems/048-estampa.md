@@ -2,7 +2,10 @@
 id: 048
 title: "ESTAMPA"
 slug: 048-estampa
+category: mi-andalucia
 ---
+
+# ESTAMPA
 
 Allá a lo lejos se escucha
 un cante por soleares,

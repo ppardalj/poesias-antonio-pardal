@@ -2,7 +2,10 @@
 id: 167
 title: "PEREGRINO"
 slug: 167-peregrino
+category: religiosas
 ---
+
+# PEREGRINO
 
 Voy recorriendo, tranquilo, el camino
 que me aproxima a la hermosa ribera.

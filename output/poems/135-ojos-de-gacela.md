@@ -2,7 +2,10 @@
 id: 135
 title: "OJOS DE GACELA"
 slug: 135-ojos-de-gacela
+category: poesias-de-amor
 ---
+
+# OJOS DE GACELA
 
 Ojos de gacela
 que dulces me miran,

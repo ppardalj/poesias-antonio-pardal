@@ -2,7 +2,10 @@
 id: 200
 title: "RETORNO (EN GAITA GALLEGA)"
 slug: 200-retorno-en-gaita-gallega
+category: poesias-de-amor
 ---
+
+# RETORNO (EN GAITA GALLEGA)
 
 Y cuando, dulce, hayas vuelto al hogar
 te besaré en tu rincón preferido,

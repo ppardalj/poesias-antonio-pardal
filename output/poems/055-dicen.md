@@ -2,7 +2,10 @@
 id: 055
 title: "DICEN"
 slug: 055-dicen
+category: poesias-de-amor
 ---
+
+# DICEN
 
 Dicen que por maldad vas a engañarme,
 que te cuide y vigile a todas horas

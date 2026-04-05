@@ -2,8 +2,11 @@
 id: 212
 title: "SEFARAD"
 slug: 212-sefarad
+category: poesias-de-amor
 date: 2006-12-11
 ---
+
+# SEFARAD
 
 Pálida luna que besas la frente
 que en el portal de la aljama reposa,

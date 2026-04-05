@@ -2,7 +2,10 @@
 id: 022
 title: "PALOMA"
 slug: 022-paloma
+category: poesias-de-amor
 ---
+
+# PALOMA
 
 ¡Ay, blanca paloma mía!
 ¡Te fuiste del palomar!

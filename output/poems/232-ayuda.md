@@ -2,8 +2,11 @@
 id: 232
 title: "AYUDA"
 slug: 232-ayuda
+category: tristezas
 date: 2007-01-30
 ---
+
+# AYUDA
 
 Cuando me haya marchado sé dichosa
 y piensa que ha pasado ya lo horrendo.

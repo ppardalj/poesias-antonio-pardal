@@ -2,8 +2,11 @@
 id: 301
 title: "CÉFIRO"
 slug: 301-cefiro
+category: poesias-de-amor
 date: 2007-08-06
 ---
+
+# CÉFIRO
 
 Llegó transido el céfiro a la playa
 cansado de seguir su singladura,

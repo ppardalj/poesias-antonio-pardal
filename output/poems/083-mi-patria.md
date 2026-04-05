@@ -2,7 +2,10 @@
 id: 083
 title: "¿MI PATRIA?"
 slug: 083-mi-patria
+category: mi-andalucia
 ---
+
+# ¿MI PATRIA?
 
 ¿Mi patria?
 ¿Es acaso aquella Europa,

@@ -2,7 +2,10 @@
 id: 139
 title: "¡QUE PARIDA...!"
 slug: 139-que-parida
+category: tristezas
 ---
+
+# ¡QUE PARIDA...!
 
 Y a veces hasta canto y parezco feliz...
 Y compongo, arrogante, protervas poesías,

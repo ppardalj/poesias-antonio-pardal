@@ -2,8 +2,11 @@
 id: 351
 title: "CAMBIO CLIMÁTICO"
 slug: 351-cambio-climatico
+category: poesias-de-amor
 date: 2008-04-10
 ---
+
+# CAMBIO CLIMÁTICO
 
 Tristeza de un ayer. ¡Oh, remembranza
 de antiguas primaveras ya pasadas,

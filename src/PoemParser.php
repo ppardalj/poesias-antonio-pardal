@@ -49,9 +49,10 @@ class PoemParser
      * @param string $html Contenido HTML del poema.
      * @param string|null $id ID del poema (ej. nombre del archivo).
      * @param string|null $title Título del poema (si se proporciona, se usa en lugar de extraerlo).
+     * @param string|null $category Categoría del poema.
      * @return string Poema formateado con Front Matter.
      */
-    public function parse(string $html, ?string $id = null, ?string $title = null): string
+    public function parse(string $html, ?string $id = null, ?string $title = null, ?string $category = null): string
     {
         libxml_use_internal_errors(true); // evitar warnings por HTML roto
 
@@ -73,7 +74,8 @@ class PoemParser
         $date = $this->extractDate($xpath);
         $poemBlocks = $this->extractPoemText($dom, $xpath);
 
-        $output = $this->computeFrontMatter($title, $slug, $date, $formattedId);
+        $output = $this->computeFrontMatter($title, $slug, $date, $formattedId, $category);
+        $output .= "# $title\n\n";
         $output .= implode("\n\n", $poemBlocks);
         $output .= "\n";
 
@@ -202,7 +204,7 @@ class PoemParser
     /**
      * Computa el Front Matter.
      */
-    private function computeFrontMatter(string $title, string $slug, ?string $date, ?string $id = null): string
+    private function computeFrontMatter(string $title, string $slug, ?string $date, ?string $id = null, ?string $category = null): string
     {
         $output = "---\n";
         if ($id !== null) {
@@ -210,6 +212,9 @@ class PoemParser
         }
         $output .= "title: \"$title\"\n";
         $output .= "slug: $slug\n";
+        if ($category !== null) {
+            $output .= "category: " . $this->slugify->slugify($category) . "\n";
+        }
         if ($date) {
             $output .= "date: $date\n";
         }

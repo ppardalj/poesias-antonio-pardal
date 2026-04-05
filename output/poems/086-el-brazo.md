@@ -2,7 +2,10 @@
 id: 086
 title: "EL BRAZO"
 slug: 086-el-brazo
+category: poesias-de-amor
 ---
+
+# EL BRAZO
 
 Había un brazo muy forzudo
 que no deseaba ser

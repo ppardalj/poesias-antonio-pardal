@@ -2,7 +2,10 @@
 id: 168
 title: "POESÍA II"
 slug: 168-poesia-ii
+category: poesias-de-amor
 ---
+
+# POESÍA II
 
 Poesía es el soplo de la brisa
 que acaricia la cara de la amada

@@ -2,7 +2,10 @@
 id: 196
 title: "LUJURIA"
 slug: 196-lujuria
+category: poesias-de-amor
 ---
+
+# LUJURIA
 
 Lujuria en la carne, lujuria en la mente,
 que quema, que invade los cuerpos ajados

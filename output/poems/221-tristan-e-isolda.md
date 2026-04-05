@@ -2,8 +2,11 @@
 id: 221
 title: "TRISTÁN E ISOLDA"
 slug: 221-tristan-e-isolda
+category: poesias-de-amor
 date: 2007-01-07
 ---
+
+# TRISTÁN E ISOLDA
 
 Este soneto está inspirado en la leyende céltica de Tristán e Isolda, en la que se basó una famosa opera de Wagner. Tristán es la Luna, que en el idioma celta era masculino. Isolda o Iseo, como también se llama, era el sol, que en ese idioma era femenino.
 Isolda iba a casarse con el Rey Markos, tio de Tristán. Una amiga le preparó a Isolda un bebedizo para entregarselo a Markos, pues quien lo bebiese quedaría enamorado con locura de ella. Pero por error, lo bebió Tristán, y aunque Isolda se casó con Markos, Tristán, bajo el influjo del bebedizo consiguió enamorarla, con lo que sobrino y esposa traicionaron, con su inmenso amor, a Markos.

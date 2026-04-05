@@ -2,8 +2,11 @@
 id: 283
 title: "DESENGAÑO"
 slug: 283-desengano
+category: tristezas
 date: 2007-06-16
 ---
+
+# DESENGAÑO
 
 El poeta se muere lentamente.
 Su tristeza lo mata poco a poco,

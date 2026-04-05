@@ -2,7 +2,10 @@
 id: 072
 title: "14 DE FEBRERO"
 slug: 072-14-de-febrero
+category: poesias-de-amor
 ---
+
+# 14 DE FEBRERO
 
 La luz era tenue.
 La música suave y muy dulce.

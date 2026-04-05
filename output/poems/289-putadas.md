@@ -2,8 +2,11 @@
 id: 289
 title: "PUTADAS"
 slug: 289-putadas
+category: poesias-de-amor
 date: 2007-07-02
 ---
+
+# PUTADAS
 
 Puto es el hombre que de putas fía,
 y puto el que sus gustos apetece,

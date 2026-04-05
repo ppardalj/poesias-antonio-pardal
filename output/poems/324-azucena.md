@@ -2,8 +2,11 @@
 id: 324
 title: "AZUCENA"
 slug: 324-azucena
+category: poesias-de-amor
 date: 2007-11-14
 ---
+
+# AZUCENA
 
 ¿Acaso la azucena es menos bella
 oculta en el rincón de un erial?

@@ -2,8 +2,11 @@
 id: 227
 title: "LA VIDA"
 slug: 227-la-vida
+category: tristezas
 date: 2007-01-23
 ---
+
+# LA VIDA
 
 Bajando los peldaños de la vida
 avanzo poco a poco y allá lejos

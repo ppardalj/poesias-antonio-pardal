@@ -2,7 +2,10 @@
 id: 006
 title: "SOLEDAD"
 slug: 006-soledad
+category: tristezas
 ---
+
+# SOLEDAD
 
 Soledad.
 Tristeza insoportable que embarga nuestra alma,

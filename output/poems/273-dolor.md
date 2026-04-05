@@ -2,8 +2,11 @@
 id: 273
 title: "DOLOR"
 slug: 273-dolor
+category: tristezas
 date: 2007-05-14
 ---
+
+# DOLOR
 
 Mas hoy, cuando descubro la arrogancia
 del ser que fatuamente se irrogaba

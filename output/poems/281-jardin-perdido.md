@@ -2,8 +2,11 @@
 id: 281
 title: "JARDÍN PERDIDO"
 slug: 281-jardin-perdido
+category: poesias-de-amor
 date: 2007-06-07
 ---
+
+# JARDÍN PERDIDO
 
 El campo que ahora ves, mustio collado,
 en tiempos fue florida rosaleda

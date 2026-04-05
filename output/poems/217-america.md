@@ -2,8 +2,11 @@
 id: 217
 title: "AMÉRICA"
 slug: 217-america
+category: poesias-de-amor
 date: 2006-12-25
 ---
+
+# AMÉRICA
 
 El viejo mar que unía a las Españas
 hoy quedó reducido a un misterioso

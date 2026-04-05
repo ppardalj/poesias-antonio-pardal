@@ -2,7 +2,10 @@
 id: 030
 title: "MI CALEÑA"
 slug: 030-mi-calena
+category: poesias-de-amor
 ---
+
+# MI CALEÑA
 
 Este Rincón tan hermoso
 donde yo te conocí,

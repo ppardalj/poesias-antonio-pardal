@@ -2,7 +2,10 @@
 id: 062
 title: "TURISMO"
 slug: 062-turismo
+category: poesias-de-amor
 ---
+
+# TURISMO
 
 ¿Por qué lloras, nena?
 ¿Que te ha hecho esa gente?

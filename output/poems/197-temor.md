@@ -2,7 +2,10 @@
 id: 197
 title: "TEMOR"
 slug: 197-temor
+category: poesias-de-amor
 ---
+
+# TEMOR
 
 Quiero mostrarte el amor que yo siento
 cuando te abrazo en la noche estrellada

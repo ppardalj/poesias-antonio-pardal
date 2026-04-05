@@ -2,7 +2,10 @@
 id: 073
 title: "MI PATRIA"
 slug: 073-mi-patria
+category: mi-andalucia
 ---
+
+# MI PATRIA
 
 Bellos rincones donde yo he vivido.
 Tierra querida que amo con baquía,

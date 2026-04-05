@@ -2,8 +2,11 @@
 id: 211
 title: "A CIERTOS POETAS"
 slug: 211-a-ciertos-poetas
+category: poesias-de-amor
 date: 2006-12-10
 ---
+
+# A CIERTOS POETAS
 
 Esos que escriben sonetos elípticos
 Esos que escriben con tintas muy pálidas.

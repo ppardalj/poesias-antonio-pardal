@@ -2,8 +2,11 @@
 id: 338
 title: "ETERNIDAD"
 slug: 338-eternidad
+category: religiosas
 date: 2007-12-27
 ---
+
+# ETERNIDAD
 
 Es otra dimensión incomprensible.
 El antes y el después no existe en ella.

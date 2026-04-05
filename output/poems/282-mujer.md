@@ -2,8 +2,11 @@
 id: 282
 title: "MUJER"
 slug: 282-mujer
+category: poesias-de-amor
 date: 2007-06-11
 ---
+
+# MUJER
 
 Mujer de los ojos negros
 que ocultas tu bello rostro

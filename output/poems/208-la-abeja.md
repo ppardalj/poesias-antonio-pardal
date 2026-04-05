@@ -2,7 +2,10 @@
 id: 208
 title: "LA ABEJA"
 slug: 208-la-abeja
+category: poesias-de-amor
 ---
+
+# LA ABEJA
 
 Triste amargura que siente la abeja
 cuando su cruel aguijón ha clavado,

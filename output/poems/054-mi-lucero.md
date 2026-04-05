@@ -2,7 +2,10 @@
 id: 054
 title: "MI LUCERO"
 slug: 054-mi-lucero
+category: tristezas
 ---
+
+# MI LUCERO
 
 Yo tengo un lucero.
 Allá muy lejano, en el alto cielo.

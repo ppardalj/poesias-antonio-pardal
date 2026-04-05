@@ -2,8 +2,11 @@
 id: 315
 title: "MISTERIO"
 slug: 315-misterio
+category: religiosas
 date: 2007-10-09
 ---
+
+# MISTERIO
 
 ¡Oh, canto misterioso del ciprés
 que el viento balancea en el camino

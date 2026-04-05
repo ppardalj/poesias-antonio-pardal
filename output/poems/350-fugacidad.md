@@ -2,8 +2,11 @@
 id: 350
 title: "FUGACIDAD"
 slug: 350-fugacidad
+category: poesias-de-amor
 date: 2008-03-28
 ---
+
+# FUGACIDAD
 
 Pasó una eternidad sin que surgiese.
 Al fin llegó hasta mí luz tan alada,

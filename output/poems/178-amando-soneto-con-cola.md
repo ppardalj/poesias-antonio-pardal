@@ -2,7 +2,10 @@
 id: 178
 title: "AMANDO (SONETO CON COLA)"
 slug: 178-amando-soneto-con-cola
+category: poesias-de-amor
 ---
+
+# AMANDO (SONETO CON COLA)
 
 Amando la dulzura de tus ojos
 voy pasando mi vida poco a poco,

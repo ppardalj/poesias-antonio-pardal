@@ -2,8 +2,11 @@
 id: 331
 title: "LA MÚSICA DEL CIELO"
 slug: 331-la-musica-del-cielo
+category: poesias-de-amor
 date: 2007-11-19
 ---
+
+# LA MÚSICA DEL CIELO
 
 Yo tengo el privilegio de escuchar en mi mente
 la inmensa sinfonía que toca el universo.

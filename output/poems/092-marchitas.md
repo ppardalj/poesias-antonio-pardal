@@ -2,7 +2,10 @@
 id: 092
 title: "MARCHITAS"
 slug: 092-marchitas
+category: tristezas
 ---
+
+# MARCHITAS
 
 Marchitas están las flores
 del jardín de nuestro hogar,

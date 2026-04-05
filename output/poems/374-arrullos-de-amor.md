@@ -2,8 +2,11 @@
 id: 374
 title: "ARRULLOS DE AMOR"
 slug: 374-arrullos-de-amor
+category: tristezas
 date: 2009-03-26
 ---
+
+# ARRULLOS DE AMOR
 
 ¿Acaso pretendí conscientemente
 marchar por esta noche tenebrosa?

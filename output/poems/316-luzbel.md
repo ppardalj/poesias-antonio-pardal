@@ -2,8 +2,11 @@
 id: 316
 title: "LUZBEL"
 slug: 316-luzbel
+category: religiosas
 date: 2007-10-13
 ---
+
+# LUZBEL
 
 Ruge en la oscuridad el iracundo
 Ángel que fue creado iridiscente.

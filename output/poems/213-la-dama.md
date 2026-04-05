@@ -2,8 +2,11 @@
 id: 213
 title: "LA DAMA"
 slug: 213-la-dama
+category: poesias-de-amor
 date: 2006-12-14
 ---
+
+# LA DAMA
 
 El ventanal del castillo almenado
 guarda celoso la cara a una dama

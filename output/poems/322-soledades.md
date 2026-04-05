@@ -2,8 +2,11 @@
 id: 322
 title: "SOLEDADES"
 slug: 322-soledades
+category: poesias-de-amor
 date: 2007-10-02
 ---
+
+# SOLEDADES
 
 Simiente fecundante en sus entrañas,
 buscando el nacimiento de una flor

@@ -2,7 +2,10 @@
 id: 056
 title: "TUS MANOS"
 slug: 056-tus-manos
+category: poesias-de-amor
 ---
+
+# TUS MANOS
 
 Manos que acarician tiernas
 y que transmiten amor,

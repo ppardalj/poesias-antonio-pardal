@@ -2,8 +2,11 @@
 id: 277
 title: "LA PERLA"
 slug: 277-la-perla
+category: poesias-de-amor
 date: 2007-05-25
 ---
+
+# LA PERLA
 
 Esa perla de plata que leve se desliza,
 amorosa y callada, reflejando tu pena,

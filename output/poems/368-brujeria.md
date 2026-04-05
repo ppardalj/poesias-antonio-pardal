@@ -2,8 +2,11 @@
 id: 368
 title: "BRUJERÍA"
 slug: 368-brujeria
+category: poesias-de-amor
 date: 2008-08-15
 ---
+
+# BRUJERÍA
 
 Ya pasaron los días de tormento.
 Ya renace el aroma a granadilla.

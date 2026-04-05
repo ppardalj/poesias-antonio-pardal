@@ -2,8 +2,11 @@
 id: 302
 title: "NEGRURA"
 slug: 302-negrura
+category: poesias-de-amor
 date: 2007-08-13
 ---
+
+# NEGRURA
 
 En las noches en que luce el plenilunio,
 cuando duerme en el almendro la cigarra

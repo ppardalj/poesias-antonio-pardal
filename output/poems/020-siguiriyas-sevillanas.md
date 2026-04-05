@@ -2,7 +2,10 @@
 id: 020
 title: "SIGUIRIYAS SEVILLANAS"
 slug: 020-siguiriyas-sevillanas
+category: mi-andalucia
 ---
+
+# SIGUIRIYAS SEVILLANAS
 
 ¡Cuando te veo pasar
 cimbreando tus caderas

@@ -2,8 +2,11 @@
 id: 327
 title: "MORAGA"
 slug: 327-moraga
+category: mi-andalucia
 date: 2007-11-18
 ---
+
+# MORAGA
 
 Distante se oye el canto de una ondina
 que entona malagueñas bajo el triste

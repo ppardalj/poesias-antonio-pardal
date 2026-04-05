@@ -2,7 +2,10 @@
 id: 017
 title: "FÁBULA DE LA HOJITA ENVIDIOSA"
 slug: 017-fabula-de-la-hojita-envidiosa
+category: poesias-de-amor
 ---
+
+# FÁBULA DE LA HOJITA ENVIDIOSA
 
 ¡Tengo miedo! ¡Me da susto!
 ¡Ya se aproxima el final...!

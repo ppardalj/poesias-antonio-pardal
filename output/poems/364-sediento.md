@@ -2,8 +2,11 @@
 id: 364
 title: "SEDIENTO"
 slug: 364-sediento
+category: poesias-de-amor
 date: 2008-07-07
 ---
+
+# SEDIENTO
 
 Crucé raudo la tierra, como un rayo
 surgido de tormenta enardecida

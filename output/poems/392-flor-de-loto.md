@@ -2,8 +2,11 @@
 id: 392
 title: "FLOR DE LOTO"
 slug: 392-flor-de-loto
+category: sin-categorizar
 date: 2007-12-17
 ---
+
+# FLOR DE LOTO
 
 Quisiera ser el agua que refresca
 tus pies hermosos en la blanca playa.

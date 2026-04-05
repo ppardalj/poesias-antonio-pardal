@@ -2,7 +2,10 @@
 id: 199
 title: "OJOS (EN GAITA GALLEGA)"
 slug: 199-ojos-en-gaita-gallega
+category: poesias-de-amor
 ---
+
+# OJOS (EN GAITA GALLEGA)
 
 Ojos que miran con suave dulzura
 y que me hace feliz contemplarlos,

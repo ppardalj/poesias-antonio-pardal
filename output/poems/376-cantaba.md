@@ -2,8 +2,11 @@
 id: 376
 title: "CANTABA"
 slug: 376-cantaba
+category: tristezas
 date: 2009-02-01
 ---
+
+# CANTABA
 
 Cantaba su canción de terciopelo
 recuerdo de un ayer que se escapaba

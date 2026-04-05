@@ -2,8 +2,11 @@
 id: 323
 title: "REFLEXIONES"
 slug: 323-reflexiones
+category: religiosas
 date: 2007-11-07
 ---
+
+# REFLEXIONES
 
 ¿Donde puedo dejar este bagaje
 que a mi pecho que espera desespera,

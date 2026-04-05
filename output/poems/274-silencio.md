@@ -2,8 +2,11 @@
 id: 274
 title: "SILENCIO"
 slug: 274-silencio
+category: tristezas
 date: 2007-05-15
 ---
+
+# SILENCIO
 
 Se van marchando todos, poco a poco.
 Se evaden lentamente de mi vida.

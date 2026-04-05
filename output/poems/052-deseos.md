@@ -2,7 +2,10 @@
 id: 052
 title: "DESEOS"
 slug: 052-deseos
+category: poesias-de-amor
 ---
+
+# DESEOS
 
 El ya te lo dijo millones de veces:
 que amaba a la otra,

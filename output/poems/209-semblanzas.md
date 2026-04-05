@@ -2,7 +2,10 @@
 id: 209
 title: "SEMBLANZAS"
 slug: 209-semblanzas
+category: poesias-de-amor
 ---
+
+# SEMBLANZAS
 
 ¿Donde quedaron aquellos jardines
 cuya frescura sentimos unidos,

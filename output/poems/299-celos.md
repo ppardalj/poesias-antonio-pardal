@@ -2,8 +2,11 @@
 id: 299
 title: "CELOS"
 slug: 299-celos
+category: poesias-de-amor
 date: 2007-07-27
 ---
+
+# CELOS
 
 Me fuiste transformando en un desecho
 cual sádico jifero sin entrañas,

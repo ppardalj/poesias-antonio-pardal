@@ -2,8 +2,11 @@
 id: 300
 title: "CARICIAS"
 slug: 300-caricias
+category: poesias-de-amor
 date: 2007-07-29
 ---
+
+# CARICIAS
 
 Quemaban los inmensos secarrales
 cruzados por caminos que los años

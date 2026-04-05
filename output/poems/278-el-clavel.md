@@ -2,8 +2,11 @@
 id: 278
 title: "EL CLAVEL"
 slug: 278-el-clavel
+category: poesias-de-amor
 date: 2007-05-25
 ---
+
+# EL CLAVEL
 
 Eres flor de verano, placentera
 unida con clavel viejo y marchito

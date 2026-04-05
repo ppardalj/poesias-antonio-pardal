@@ -2,7 +2,10 @@
 id: 049
 title: "NOSTALGIA DE AMOR"
 slug: 049-nostalgia-de-amor
+category: poesias-de-amor
 ---
+
+# NOSTALGIA DE AMOR
 
 Dulces arpegios que guarda la mente,
 reminiscencias de un tiempo lejano.

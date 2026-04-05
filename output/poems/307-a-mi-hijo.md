@@ -2,8 +2,11 @@
 id: 307
 title: "A MI HIJO"
 slug: 307-a-mi-hijo
+category: poesias-de-amor
 date: 2007-08-31
 ---
+
+# A MI HIJO
 
 Protégeme hasta el fin de mi existencia
 pues pronto habré de hallarme desvalido.

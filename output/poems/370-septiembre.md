@@ -2,8 +2,11 @@
 id: 370
 title: "SEPTIEMBRE"
 slug: 370-septiembre
+category: poesias-de-amor
 date: 2008-09-03
 ---
+
+# SEPTIEMBRE
 
 En un septiembre de nostalgia pleno,
 cuando un verano más se pierde ajado,

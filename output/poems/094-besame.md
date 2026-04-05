@@ -2,7 +2,10 @@
 id: 094
 title: "BÉSAME"
 slug: 094-besame
+category: poesias-de-amor
 ---
+
+# BÉSAME
 
 Bésame despacio y suavemente,
 con la tierna dulzura que tú sabes.

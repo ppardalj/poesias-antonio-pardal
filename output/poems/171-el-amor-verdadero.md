@@ -2,7 +2,10 @@
 id: 171
 title: "EL AMOR VERDADERO"
 slug: 171-el-amor-verdadero
+category: religiosas
 ---
+
+# EL AMOR VERDADERO
 
 El verdadero amor no es absorbente
 Tampoco es placentero ni egoísta.

@@ -2,8 +2,11 @@
 id: 251
 title: "ABROJOS"
 slug: 251-abrojos
+category: tristezas
 date: 2007-03-22
 ---
+
+# ABROJOS
 
 Hay tanta vaciedad en los rastrojos
 que llegan de los secos eriales,

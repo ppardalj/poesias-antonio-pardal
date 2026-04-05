@@ -2,8 +2,11 @@
 id: 304
 title: "A MIS HERMANOS PERUANOS"
 slug: 304-a-mis-hermanos-peruanos
+category: tristezas
 date: 2007-08-18
 ---
+
+# A MIS HERMANOS PERUANOS
 
 Hoy siento solo ganas de llorar.
 Hoy circula tristeza por mis venas.

@@ -2,8 +2,11 @@
 id: 265
 title: "TRISTEZAS"
 slug: 265-tristezas
+category: tristezas
 date: 2007-04-20
 ---
+
+# TRISTEZAS
 
 Nostalgia que larvada se pronuncia
 hiriendo a un corazón que ya está roto

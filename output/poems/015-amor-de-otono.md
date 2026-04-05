@@ -2,7 +2,10 @@
 id: 015
 title: "AMOR DE OTOÑO"
 slug: 015-amor-de-otono
+category: sin-categorizar
 ---
+
+# AMOR DE OTOÑO
 
 Tierna emoción la que siente mi ser...
 Bellos efluvios de amor y ternura...

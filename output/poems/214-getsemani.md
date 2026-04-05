@@ -2,8 +2,11 @@
 id: 214
 title: "GETSEMANÍ"
 slug: 214-getsemani
+category: religiosas
 date: 2006-12-20
 ---
+
+# GETSEMANÍ
 
 ¿Por qué me hiciste, Padre, nacer en este mundo
 donde la iniquidad por doquier prolifera?

@@ -2,8 +2,11 @@
 id: 229
 title: "LA QUERIDA"
 slug: 229-la-querida
+category: poesias-de-amor
 date: 2007-01-25
 ---
+
+# LA QUERIDA
 
 Mujer, me estás jurando amor eterno
 y aparte vas diciendo que, aburrida,

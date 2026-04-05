@@ -2,8 +2,11 @@
 id: 390
 title: "LUZ BLANCA"
 slug: 390-luz-blanca
+category: sin-categorizar
 date: 2010-10-11
 ---
+
+# LUZ BLANCA
 
 Lentamente. Muy despacio
 recorrieron sus ojos la gran sala,

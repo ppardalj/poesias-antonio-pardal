@@ -2,8 +2,11 @@
 id: 375
 title: "REGATOS"
 slug: 375-regatos
+category: tristezas
 date: 2008-12-12
 ---
+
+# REGATOS
 
 Regatos son las lágrimas que surcan
 el alma, cual cuchillos lacerantes,

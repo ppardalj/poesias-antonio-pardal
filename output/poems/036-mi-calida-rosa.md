@@ -2,7 +2,10 @@
 id: 036
 title: "MI CÁLIDA ROSA"
 slug: 036-mi-calida-rosa
+category: poesias-de-amor
 ---
+
+# MI CÁLIDA ROSA
 
 Cuando miro hacia atrás
 y siento mi alma tan triste y herida,

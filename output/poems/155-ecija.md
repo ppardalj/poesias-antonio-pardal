@@ -2,7 +2,10 @@
 id: 155
 title: "ÉCIJA"
 slug: 155-ecija
+category: mi-andalucia
 ---
+
+# ÉCIJA
 
 Torres altas que se pierden
 en los umbrales del cielo,

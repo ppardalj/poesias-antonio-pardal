@@ -2,7 +2,10 @@
 id: 174
 title: "A UNA POETA"
 slug: 174-a-una-poeta
+category: poesias-de-amor
 ---
+
+# A UNA POETA
 
 Luminosa hermosura la que tu pluma exhala
 con arrebol intenso de un bello atardecer,

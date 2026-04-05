@@ -2,8 +2,11 @@
 id: 389
 title: "ESCALOFRÍO"
 slug: 389-escalofrio
+category: sin-categorizar
 date: 2010-05-10
 ---
+
+# ESCALOFRÍO
 
 Latidos que revuelven mis entrañas
 sintiendo que sus labios abandonan,

@@ -2,7 +2,10 @@
 id: 193
 title: "MI APOSENTO"
 slug: 193-mi-aposento
+category: poesias-de-amor
 ---
+
+# MI APOSENTO
 
 Cuando mi cuerpo mezclado en el viento
 surque la mar con aladas gaviotas

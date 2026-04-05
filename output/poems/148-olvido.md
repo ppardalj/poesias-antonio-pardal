@@ -2,7 +2,10 @@
 id: 148
 title: "OLVIDO"
 slug: 148-olvido
+category: poesias-de-amor
 ---
+
+# OLVIDO
 
 ¿La recuerdas?
 ¿Recuerdas aquella noche?

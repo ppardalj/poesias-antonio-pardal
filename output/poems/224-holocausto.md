@@ -2,8 +2,11 @@
 id: 224
 title: "HOLOCAUSTO"
 slug: 224-holocausto
+category: tristezas
 date: 2007-01-17
 ---
+
+# HOLOCAUSTO
 
 Tomaron a los riscos por moradas
 en tanto que los hijos se les fueron:

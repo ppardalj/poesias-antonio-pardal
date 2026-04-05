@@ -2,8 +2,11 @@
 id: 286
 title: "CARIDAD"
 slug: 286-caridad
+category: poesias-de-amor
 date: 2007-06-19
 ---
+
+# CARIDAD
 
 No dudes nunca en combatir su suerte
 alimentando con tu vida incluso

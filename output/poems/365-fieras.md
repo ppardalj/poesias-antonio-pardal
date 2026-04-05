@@ -2,8 +2,11 @@
 id: 365
 title: "FIERAS"
 slug: 365-fieras
+category: poesias-de-amor
 date: 2008-07-18
 ---
+
+# FIERAS
 
 Los humanos dijeron que eras fiera,
 que atacabas al rey de lo creado,

@@ -2,8 +2,11 @@
 id: 276
 title: "MARGARITA"
 slug: 276-margarita
+category: poesias-de-amor
 date: 2007-05-20
 ---
+
+# MARGARITA
 
 No puedo compararte con la rosa
 pletórica de aroma embriagador

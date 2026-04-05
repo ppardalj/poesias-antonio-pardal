@@ -2,7 +2,10 @@
 id: 091
 title: "VIOLENCIA DE GÉNERO 2"
 slug: 091-violencia-de-genero-2
+category: poesias-de-amor
 ---
+
+# VIOLENCIA DE GÉNERO 2
 
 ¿Por qué lo hiciste, papá?
 ¿Por qué segaste su vida?

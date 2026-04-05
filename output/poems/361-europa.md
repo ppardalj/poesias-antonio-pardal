@@ -2,8 +2,11 @@
 id: 361
 title: "EUROPA"
 slug: 361-europa
+category: poesias-de-amor
 date: 2008-06-20
 ---
+
+# EUROPA
 
 Crisol de un universo en que me hundo
 en piélago de aguas fantasmales,

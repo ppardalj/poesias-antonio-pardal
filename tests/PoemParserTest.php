@@ -20,6 +20,7 @@ class PoemParserTest extends TestCase
         $output = $this->parser->parse($html);
         
         $this->assertStringContainsString('title: "TEST POEM"', $output);
+        $this->assertStringContainsString("# TEST POEM\n", $output);
     }
 
     public function testParseTitleFromStrongTag(): void
@@ -164,6 +165,15 @@ class PoemParserTest extends TestCase
         $this->assertStringContainsString('title: "TITLE FROM INDEX"', $output);
         $this->assertStringContainsString('slug: 001-title-from-index', $output);
         $this->assertStringNotContainsString('ORIGINAL TITLE', $output);
+        $this->assertStringContainsString("# TITLE FROM INDEX\n", $output);
+    }
+
+    public function testParseWithCategory(): void
+    {
+        $html = '<html><head><title>Test Poem</title></head><body></body></html>';
+        $output = $this->parser->parse($html, null, null, 'Poesías de Amor (A Victoria)');
+        
+        $this->assertStringContainsString('category: poesias-de-amor-a-victoria', $output);
     }
 
     public function testParseTitleFromAntonio12Pattern(): void

@@ -2,7 +2,10 @@
 id: 059
 title: "ALZHEIMER"
 slug: 059-alzheimer
+category: poesias-de-amor
 ---
+
+# ALZHEIMER
 
 Cuando el tiempo me obligue a doblar la cabeza,
 y a pesar de mirarte, tu dulzura no vea.

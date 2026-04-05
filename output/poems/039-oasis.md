@@ -2,7 +2,10 @@
 id: 039
 title: "OASIS"
 slug: 039-oasis
+category: poesias-de-amor
 ---
+
+# OASIS
 
 Dulce como la ambrosía
 es el néctar de tus besos.

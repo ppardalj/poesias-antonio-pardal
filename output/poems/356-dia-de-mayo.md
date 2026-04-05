@@ -2,8 +2,11 @@
 id: 356
 title: "DÍA DE MAYO"
 slug: 356-dia-de-mayo
+category: tristezas
 date: 2008-05-11
 ---
+
+# DÍA DE MAYO
 
 Era un día de mayo. De un mayo florido,
 en que de tomillos, juncales y sauces

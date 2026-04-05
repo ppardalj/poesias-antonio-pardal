@@ -2,7 +2,10 @@
 id: 011
 title: "MI VICTORIA"
 slug: 011-mi-victoria
+category: poesias-de-amor
 ---
+
+# MI VICTORIA
 
 Cuando te ví el primer día no me gustaste.
 No te empolvabas la cara,

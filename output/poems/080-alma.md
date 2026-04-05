@@ -2,7 +2,10 @@
 id: 080
 title: "ALMA"
 slug: 080-alma
+category: poesias-de-amor
 ---
+
+# ALMA
 
 Dulce alma, no temas...la vida es así...
 Has pasado los años dichosa y feliz.

@@ -2,8 +2,11 @@
 id: 393
 title: "NEGRURA"
 slug: 393-negrura
+category: sin-categorizar
 date: 2012-07-09
 ---
+
+# NEGRURA
 
 Vivía en un eden resplandeciente
 bañado por dulcísimos colores

@@ -2,7 +2,10 @@
 id: 177
 title: "SONETO DOBLADO"
 slug: 177-soneto-doblado
+category: poesias-de-amor
 ---
+
+# SONETO DOBLADO
 
 Quiero ser un poeta excepcional,
 (que escriba sin igual).

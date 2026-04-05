@@ -2,8 +2,11 @@
 id: 231
 title: "FRÍO"
 slug: 231-frio
+category: tristezas
 date: 2007-01-28
 ---
+
+# FRÍO
 
 Siento frío. Devora la tristeza
 mis entrañas. Y brama mi garganta

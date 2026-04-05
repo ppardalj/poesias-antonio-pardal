@@ -2,7 +2,10 @@
 id: 205
 title: "OTOÑOS ANDALUCES"
 slug: 205-otonos-andaluces
+category: mi-andalucia
 ---
+
+# OTOÑOS ANDALUCES
 
 Mañanas andaluzas, con luz resplandeciente,
 donde el cambiante otoño parece primavera.
