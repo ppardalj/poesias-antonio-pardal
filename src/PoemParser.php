@@ -22,6 +22,22 @@ class PoemParser
 
         $xpath = new DOMXPath($dom);
 
+        $title = $this->extractTitle($xpath);
+        $date = $this->extractDate();
+        $poemBlocks = $this->extractPoemText($dom, $xpath);
+
+        $output = $this->computeFrontMatter($title, $date);
+        $output .= implode("\n\n", $poemBlocks);
+        $output .= "\n";
+
+        return $output;
+    }
+
+    /**
+     * Extrae el título del poema.
+     */
+    private function extractTitle(DOMXPath $xpath): string
+    {
         // Extraer el título del poema (normalmente en la etiqueta <title> o un <strong> específico)
         $titleNode = $xpath->query('//title')->item(0);
         $title = $titleNode ? trim($titleNode->nodeValue) : 'Sin título';
@@ -36,9 +52,24 @@ class PoemParser
         $title = preg_replace('/^Poesias Antonio Pardal\s*-\s*/i', '', $title);
         $title = rtrim($title, '.');
 
-        // Fecha actual en formato ISO 8601
-        $date = date('c');
+        return $title;
+    }
 
+    /**
+     * Extrae la fecha en formato ISO 8601.
+     */
+    private function extractDate(): string
+    {
+        return date('c');
+    }
+
+    /**
+     * Extrae el texto del poema procesando cada estrofa.
+     *
+     * @return string[]
+     */
+    private function extractPoemText(DOMDocument $dom, DOMXPath $xpath): array
+    {
         // buscar <p align="center"> que contengan <strong>
         $nodes = $xpath->query('//p[@align="center"][.//strong]');
 
@@ -84,14 +115,18 @@ class PoemParser
             }
         }
 
-        // Construir resultado final con Front Matter
+        return $poem;
+    }
+
+    /**
+     * Computa el Front Matter.
+     */
+    private function computeFrontMatter(string $title, string $date): string
+    {
         $output = "---\n";
         $output .= "title: \"$title\"\n";
         $output .= "date: $date\n";
         $output .= "---\n\n";
-
-        $output .= implode("\n\n", $poem);
-        $output .= "\n";
 
         return $output;
     }
