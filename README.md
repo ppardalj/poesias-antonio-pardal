@@ -15,5 +15,6 @@ docker run --rm \
   output/book/book.md \
   -o output/book/book.pdf \
   --pdf-engine=xelatex \
-  -V geometry:margin=2.5cm
+  -V geometry:margin=2.5cm \
+  -V papersize=a5
 ```
