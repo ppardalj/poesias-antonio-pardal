@@ -25,18 +25,48 @@ if (!file_exists($indexHtmlPath)) {
 
 $indexHtml = file_get_contents($indexHtmlPath);
 
-// 1. Generar INDEX.md
-echo "Generando INDEX.md...\n";
+// 1. Obtener lista de poemas del índice
+echo "Analizando el índice...\n";
 $indexGenerator = new IndexGenerator();
-$indexMarkdown = $indexGenerator->generate($indexHtml);
+$poemsFromIndex = $indexGenerator->getPoems($indexHtml);
+
+// 2. Detectar poemas no listados en el índice
+echo "Buscando poemas no listados en el índice...\n";
+$allPoemFiles = glob($inputDir . '/Antonio*.htm');
+$indexedHrefs = array_map(fn($p) => $p['href'], $poemsFromIndex);
+$extraPoems = [];
+
+foreach ($allPoemFiles as $file) {
+    $href = basename($file);
+    if (!in_array($href, $indexedHrefs)) {
+        // Extraer título del propio fichero
+        $poemHtml = file_get_contents($file);
+        
+        libxml_use_internal_errors(true);
+        $dom = new DOMDocument();
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $poemHtml, LIBXML_NOERROR | LIBXML_NOWARNING);
+        $xpath = new DOMXPath($dom);
+        
+        $poemParser = new PoemParser();
+        $title = $poemParser->extractTitle($xpath);
+        
+        $extraPoems[] = [
+            'href' => $href,
+            'title' => $title ?: str_replace('.htm', '', $href) // Fallback al nombre del archivo
+        ];
+    }
+}
+
+$poems = array_merge($poemsFromIndex, $extraPoems);
+$total = count($poems);
+echo "Se han identificado $total poemas (" . count($poemsFromIndex) . " en índice + " . count($extraPoems) . " sin categorizar).\n";
+
+// 3. Generar INDEX.md con poemas extra
+echo "Generando INDEX.md...\n";
+$indexMarkdown = $indexGenerator->generate($indexHtml, $extraPoems);
 file_put_contents($outputDir . '/INDEX.md', $indexMarkdown);
 
-// 2. Obtener lista de poemas
-$poems = $indexGenerator->getPoems($indexHtml);
-$total = count($poems);
-echo "Se han identificado $total poemas.\n";
-
-// 3. Procesar cada poema
+// 4. Procesar cada poema
 $poemParser = new PoemParser();
 foreach ($poems as $index => $poem) {
     $href = $poem['href'];

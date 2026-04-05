@@ -11,9 +11,10 @@ class IndexGenerator
      * Genera el índice en formato Markdown a partir del HTML de index.htm.
      *
      * @param string $html Contenido HTML del índice.
+     * @param array $extraPoems Lista opcional de poemas adicionales para añadir al final.
      * @return string Índice en formato Markdown.
      */
-    public function generate(string $html): string
+    public function generate(string $html, array $extraPoems = []): string
     {
         libxml_use_internal_errors(true);
         $dom = new DOMDocument();
@@ -82,6 +83,20 @@ class IndexGenerator
                 $key = $href . '|' . $title;
                 if (isset($processed[$key])) continue;
                 $processed[$key] = true;
+                
+                $output .= "- [$title]($outputPath)\n";
+            }
+        }
+
+        if (!empty($extraPoems)) {
+            $output .= "\n## SIN CATEGORIZAR\n\n";
+            foreach ($extraPoems as $poem) {
+                $href = $poem['href'];
+                $title = $poem['title'];
+                
+                $formattedId = PoemParser::formatId($href);
+                $slug = PoemParser::generateSlug($title, $formattedId);
+                $outputPath = "poems/$slug.md";
                 
                 $output .= "- [$title]($outputPath)\n";
             }

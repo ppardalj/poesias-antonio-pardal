@@ -83,21 +83,22 @@ class PoemParser
     /**
      * Extrae el título del poema.
      */
-    private function extractTitle(DOMXPath $xpath): string
+    public function extractTitle(DOMXPath $xpath): string
     {
         // Extraer el título del poema (normalmente en la etiqueta <title> o un <strong> específico)
         $titleNode = $xpath->query('//title')->item(0);
         $title = $titleNode ? trim($titleNode->nodeValue) : 'Sin título';
 
         // Intentar sacar el título de un <font size="6"> o similar si el del title es genérico
-        $fontTitle = $xpath->query('//p[@align="center"]//font[@size="6"]|//p[@align="center" and @class="Estilo1"]//font')->item(0);
+        $fontTitle = $xpath->query('//p[@align="center"]//font[@size="6"]|//p[@align="center" and @class="Estilo1"]//font|//div[@align="center"]//p//font[@size="6"]')->item(0);
         if ($fontTitle) {
             $title = trim($fontTitle->nodeValue);
         }
 
-        // Intentar sacar el título del primer <strong> dentro de un <p align="center"> si el del title es genérico o no se encontró el font
-        if (!$fontTitle || empty($title)) {
-            $firstStrong = $xpath->query('//p[@align="center"]//strong')->item(0);
+        // Intentar sacar el título del primer <strong> dentro de un <p align="center"> o <div align="center">
+        // si el del title es genérico o no se encontró el font
+        if (!$fontTitle || empty($title) || stripos($title, 'Poesias Antonio Pardal') !== false) {
+            $firstStrong = $xpath->query('//p[@align="center"]//strong|//div[@align="center"]//p//strong')->item(0);
             if ($firstStrong && mb_strlen(trim($firstStrong->nodeValue)) < 50) {
                 $title = trim($firstStrong->nodeValue);
             }

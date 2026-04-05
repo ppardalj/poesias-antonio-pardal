@@ -93,4 +93,21 @@ class IndexGeneratorTest extends TestCase
         $this->assertEquals('Antonio2.htm', $poems[1]['href']);
         $this->assertEquals('Poema 2', $poems[1]['title']);
     }
+
+    public function testGenerateWithExtraPoems(): void
+    {
+        $html = '<html><body>
+            <div class="Estilo11">SECCIÓN 1</div>
+            <a href="Antonio1.htm">Poema 1</a>
+        </body></html>';
+
+        $extra = [
+            ['href' => 'Antonio999.htm', 'title' => 'Poema Extra']
+        ];
+
+        $output = $this->generator->generate($html, $extra);
+
+        $this->assertStringContainsString('## SIN CATEGORIZAR', $output);
+        $this->assertStringContainsString('- [Poema Extra](poems/999-poema-extra.md)', $output);
+    }
 }

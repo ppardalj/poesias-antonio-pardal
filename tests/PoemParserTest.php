@@ -165,4 +165,17 @@ class PoemParserTest extends TestCase
         $this->assertStringContainsString('slug: 001-title-from-index', $output);
         $this->assertStringNotContainsString('ORIGINAL TITLE', $output);
     }
+
+    public function testParseTitleFromAntonio12Pattern(): void
+    {
+        $html = '<html><head><title>Poesias Antonio Pardal.</title></head><body>
+            <div align="center">
+                <p><strong><font color="#D9BD8E" size="6" face="Arial, Helvetica, sans-serif">MAGDALENA</font></strong></p>
+                <p>&nbsp;</p>
+            </div>
+        </body></html>';
+        $output = $this->parser->parse($html);
+        
+        $this->assertStringContainsString('title: "MAGDALENA"', $output);
+    }
 }
