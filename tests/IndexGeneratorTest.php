@@ -74,4 +74,23 @@ class IndexGeneratorTest extends TestCase
         $this->assertStringContainsString('P2', $parts[2]);
         $this->assertStringNotContainsString('P1', $parts[2]);
     }
+
+    public function testGetPoems(): void
+    {
+        $html = '<html><body>
+            <div class="Estilo11">SECCIÓN 1</div>
+            <a href="Antonio1.htm">Poema 1</a>
+            <div class="Estilo11">SECCIÓN 2</div>
+            <a href="Antonio1.htm">Poema 1</a> <!-- Duplicado -->
+            <a href="Antonio2.htm">Poema 2</a>
+        </body></html>';
+
+        $poems = $this->generator->getPoems($html);
+
+        $this->assertCount(2, $poems);
+        $this->assertEquals('Antonio1.htm', $poems[0]['href']);
+        $this->assertEquals('Poema 1', $poems[0]['title']);
+        $this->assertEquals('Antonio2.htm', $poems[1]['href']);
+        $this->assertEquals('Poema 2', $poems[1]['title']);
+    }
 }

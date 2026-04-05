@@ -1,0 +1,24 @@
+---
+id: 318
+title: "POESIAS ANTONIO PARDAL"
+slug: 318-poesias-antonio-pardal
+date: 2007-10-21
+---
+
+Yo padecía alzheimer de una guerra
+fratricida. Tenía ya olvidada
+una lucha entre hermanos, malhadada,
+y vivía feliz en esta tierra.
+
+Mas siento ya pavor, y eso me aterra,
+de sentir milagrosa, ya curada,
+la triste enfermedad no confesada.
+Y me asomo a los pozos de la sierra.
+
+Y en el brocal maldito de los huecos
+de un campo pedregoso de Almería,
+escucho con pavor los tristes ecos
+
+de una inmensa y lejana letanía
+que corre por los páramos resecos,
+rezando ¡Ora pro nobis!, todavía...

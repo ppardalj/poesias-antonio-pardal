@@ -89,4 +89,42 @@ class IndexGenerator
 
         return $output;
     }
+
+    /**
+     * Extrae todos los poemas únicos del HTML del índice.
+     *
+     * @param string $html Contenido HTML del índice.
+     * @return array Lista de poemas con href y título.
+     */
+    public function getPoems(string $html): array
+    {
+        libxml_use_internal_errors(true);
+        $dom = new DOMDocument();
+        $dom->loadHTML('<?xml encoding="UTF-8">' . $html, LIBXML_NOERROR | LIBXML_NOWARNING);
+        $xpath = new DOMXPath($dom);
+
+        $poems = [];
+        $links = $xpath->query('//a[contains(@href, "Antonio")]');
+
+        foreach ($links as $link) {
+            $href = $link->getAttribute('href');
+            $title = trim($link->nodeValue);
+            
+            if (empty($title)) continue;
+            
+            $title = html_entity_decode($title, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+            $title = preg_replace('/\s+/', ' ', $title);
+            $title = trim($title);
+            
+            $key = $href . '|' . $title;
+            if (isset($poems[$key])) continue;
+            
+            $poems[$key] = [
+                'href' => $href,
+                'title' => $title
+            ];
+        }
+
+        return array_values($poems);
+    }
 }

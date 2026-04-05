@@ -1,0 +1,21 @@
+---
+id: 275
+title: "POESIAS ANTONIO PARDAL"
+slug: 275-poesias-antonio-pardal
+date: 2007-05-17
+---
+
+Jamás olvidaré tan dulces hechos.
+Las bocas se fundían ciegamente
+en beso interminable y absorbente
+que nunca nos dejaba satisfechos.
+Los brazos se enlazaban en estrechos
+y cálidos engarces, vehementes,
+reflejos de pasiones tan ardientes
+que ya no soportaban nuestros pechos.
+Mi cuerpo penetraba en su interior,
+sintiendo de su sangre los latidos,
+hendiendolo ardoroso con amor.
+Tan grande fue el deleite en los sentidos
+causado por un fuego abrasador,
+que el orbe conmoviose entre gemidos.
