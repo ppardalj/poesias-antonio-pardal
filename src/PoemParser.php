@@ -16,6 +16,14 @@ class PoemParser
     }
 
     /**
+     * Genera un slug a partir de un texto.
+     */
+    public function slugify(string $text): string
+    {
+        return $this->slugify->slugify($text);
+    }
+
+    /**
      * Extrae el ID formateado a partir del nombre de archivo.
      */
     public static function formatId(?string $id): ?string

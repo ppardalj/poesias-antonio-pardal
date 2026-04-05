@@ -24,9 +24,9 @@ class IndexGeneratorTest extends TestCase
         $output = $this->generator->generate($html);
 
         $this->assertStringContainsString('## SECCIÓN 1', $output);
-        $this->assertStringContainsString('- [Poema 1](poems/001-poema-1.md)', $output);
+        $this->assertStringContainsString('- [Poema 1](poems/seccion-1/001-poema-1.md)', $output);
         $this->assertStringContainsString('## SECCIÓN 2', $output);
-        $this->assertStringContainsString('- [Poema 2](poems/002-poema-2.md)', $output);
+        $this->assertStringContainsString('- [Poema 2](poems/seccion-2/002-poema-2.md)', $output);
     }
 
     public function testGenerateIndexWithSubtitles(): void
@@ -46,7 +46,7 @@ class IndexGeneratorTest extends TestCase
         $output = $this->generator->generate($html);
         
         $this->assertStringContainsString('## AMOR (A VICTORIA)', $output);
-        $this->assertStringContainsString('- [Poema Amor](poems/001-poema-amor.md)', $output);
+        $this->assertStringContainsString('- [Poema Amor](poems/amor-a-victoria/001-poema-amor.md)', $output);
     }
 
     public function testSeparationOfSections(): void
@@ -108,6 +108,6 @@ class IndexGeneratorTest extends TestCase
         $output = $this->generator->generate($html, $extra);
 
         $this->assertStringContainsString('## SIN CATEGORIZAR', $output);
-        $this->assertStringContainsString('- [Poema Extra](poems/999-poema-extra.md)', $output);
+        $this->assertStringContainsString('- [Poema Extra](poems/sin-categorizar/999-poema-extra.md)', $output);
     }
 }

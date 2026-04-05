@@ -84,12 +84,19 @@ foreach ($poems as $index => $poem) {
     $poemHtml = file_get_contents($poemFile);
     $markdown = $poemParser->parse($poemHtml, basename($href), $poem['title'], $poem['category'] ?? null);
     
+    // Calcular ruta de salida con categoría
+    $categorySlug = $poemParser->slugify($poem['category'] ?? 'sin-categorizar');
+    $categoryDir = $poemsOutputDir . '/' . $categorySlug;
+    if (!is_dir($categoryDir)) {
+        mkdir($categoryDir, 0777, true);
+    }
+
     // El slug se usa para el nombre del archivo. 
     // Reutilizamos la lógica de PoemParser para obtener el slug exacto que espera el INDEX.md
     $formattedId = PoemParser::formatId($href);
     $slug = PoemParser::generateSlug($poem['title'], $formattedId);
     
-    file_put_contents($poemsOutputDir . '/' . $slug . '.md', $markdown);
+    file_put_contents($categoryDir . '/' . $slug . '.md', $markdown);
 }
 
 echo "\n¡Proceso completado! Los archivos se encuentran en la carpeta 'output/'.\n";

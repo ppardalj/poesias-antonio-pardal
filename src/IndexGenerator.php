@@ -78,7 +78,10 @@ class IndexGenerator
                 
                 $formattedId = PoemParser::formatId($href);
                 $slug = PoemParser::generateSlug($title, $formattedId);
-                $outputPath = "poems/$slug.md";
+                
+                $poemParser = new PoemParser();
+                $categorySlug = $poemParser->slugify($fullSectionTitle);
+                $outputPath = "poems/$categorySlug/$slug.md";
                 
                 $key = $href . '|' . $title;
                 if (isset($processed[$key])) continue;
@@ -96,7 +99,10 @@ class IndexGenerator
                 
                 $formattedId = PoemParser::formatId($href);
                 $slug = PoemParser::generateSlug($title, $formattedId);
-                $outputPath = "poems/$slug.md";
+                
+                $poemParser = new PoemParser();
+                $categorySlug = $poemParser->slugify($poem['category'] ?? 'sin-categorizar');
+                $outputPath = "poems/$categorySlug/$slug.md";
                 
                 $output .= "- [$title]($outputPath)\n";
             }
