@@ -7,6 +7,8 @@ category: poesias-de-amor-a-victoria
 
 # OJOS (EN GAITA GALLEGA)
 
+OJOS. En gaita gallega
+
 Ojos que miran con suave dulzura
 y que me hace feliz contemplarlos,
 pues me transmiten tan solo al mirarlos

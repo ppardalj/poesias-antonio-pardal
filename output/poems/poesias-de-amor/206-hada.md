@@ -16,9 +16,12 @@ Es el gemir lacerante de un hada
 enamorada hace tiempo de un hombre
 que acobardado de amarla, se esconde,
 al sospechar que lo embruja una maga.
+
 Pena me da de escuchar el lamento
 bajo la luz de la pálida luna,
 y una congoja me abrasa por dentro.
+
 Trágico llanto que lejos me abruma
 al escuchar de la meiga el secreto,
 con ese canto de amor y ternura.
+

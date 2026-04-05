@@ -7,6 +7,8 @@ category: tristezas
 
 # YA LLEGA EL MOMENTO
 
+YA LLEGA EL MOMENTO
+
 Ya veo la luz infinita a lo lejos.
 Se acerca el momento.
 Ya voy a dejar esta vida,
@@ -41,3 +43,5 @@ Y si alguna vez tengo que volver
 al planeta Tierra a pagar más culpas...
 ¡¡Infinito Ser que todo lo puedes,
 hazme una montaña, un ave, un gusano...!!
+
+¡¡¡No me hagas humano...!!!

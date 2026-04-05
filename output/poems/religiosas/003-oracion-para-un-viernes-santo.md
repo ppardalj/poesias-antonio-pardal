@@ -7,6 +7,9 @@ category: religiosas
 
 # ORACIÓN PARA UN VIERNES SANTO
 
+ORACION PARA UN VIERNES SANTO
+
+
 Señor, que a los humanos ofrendaste
 tu Vida, tu Pasión y hasta tu muerte,
 perdona mis pecados, pues al verte

@@ -7,6 +7,10 @@ category: tristezas
 
 # ¡CUÁNTO DUELE!
 
+¡¡CUÁNTO DUELE!!
+
+¡¡Cuanto duele!!
+
 Cuando el alma se entrega a un amor imposible,
 cuando el ser se estremece tan solo al soñar
 en rozar una mano que siquiera conoce;
@@ -17,6 +21,10 @@ al saber que nunca podrás
 besar unos labios, mirar unos ojos, sentir un aliento,
 ni estrechar en tus brazos un cuerpo muy amado
 que en tus fantasías tienes a tu lado.
+
+¡¡Cuanto duele!!
+
+¡¡Que daño hace!!
 
 ¡Cual lastima el desprecio, el desdén o el olvido
 de ese ser tan querido!

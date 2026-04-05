@@ -170,39 +170,46 @@ class PoemParser
             // convertir <br> en saltos de línea
             $innerHTML = '';
             foreach ($node->childNodes as $child) {
+                // saveHTML genera el HTML completo del nodo, incluyendo tags
                 $innerHTML .= $dom->saveHTML($child);
             }
+            
+            // 1. Convertimos los <br> en marcadores temporales [[BR]] para que no se pierdan con strip_tags
+            // Es vital capturar los <BR> antes de colapsar espacios.
+            $text = preg_replace('/<br\s*\/?>/i', '[[BR]]', $innerHTML);
+            
+            // 2. Quitar el resto de tags HTML
+            $text = strip_tags($text);
 
-            // normalizar espacios y saltos de línea del HTML original para que no afecten
-            // pero guardando los <br> antes
-            $textWithPlaceholders = preg_replace('/<br\s*\/?>/i', '[[BR]]', $innerHTML);
-
-            // quitar el resto de tags
-            $text = strip_tags($textWithPlaceholders);
-
-            // decodificar entidades HTML (&ntilde;, etc.)
+            // 3. Decodificar entidades HTML (&ntilde;, etc.)
             $text = html_entity_decode($text, ENT_QUOTES | ENT_HTML5, 'UTF-8');
-
-            // Normalizar espacios en blanco (convertir todos los \n, \r, \t y múltiples espacios en un solo espacio)
+            
+            // 4. Limpiar espacios en blanco del HTML original (incluyendo \n reales)
+            // Reemplazamos todos los espacios en blanco (\s+) por un espacio normal, 
+            // pero OJO: esto colapsará "[[BR]] \n [[BR]]" en "[[BR]] [[BR]]"
             $text = preg_replace('/\s+/', ' ', $text);
+            $text = trim($text);
 
-            // convertir nuestro marcador [[BR]] en saltos de línea reales
+            // 5. Detectar estrofas: [[BR]] seguidos de espacios y más [[BR]] deben ser \n\n
+            // Buscamos patrones como [[BR]] [[BR]] o [[BR]] [[BR]] [[BR]] y los convertimos en un marcador de estrofa
+            $text = preg_replace('/\[\[BR\]\](\s*\[\[BR\]\])+/', "\n\n", $text);
+            
+            // Los [[BR]] individuales que queden son saltos de línea simples
             $text = str_replace('[[BR]]', "\n", $text);
 
-            // limpiar espacios en blanco entre versos y líneas en blanco adicionales dentro de la estrofa
-            $lines = explode("\n", $text);
-            $cleanedLines = [];
-            foreach ($lines as $line) {
-                $trimmed = trim($line);
-                if ($trimmed !== '') {
-                    $cleanedLines[] = $trimmed;
-                }
-            }
-            $text = implode("\n", $cleanedLines);
+            // 6. Dividir por múltiples saltos de línea (que indican cambios de estrofa)
+            $blocks = preg_split("/\n{2,}/", $text);
 
             // filtrar cosas cortas (ruido)
-            if (mb_strlen($text) > 30) {
-                $poem[] = $text;
+            foreach ($blocks as $block) {
+                // Limpiar cada línea de la estrofa para quitar espacios al principio y final
+                $lines = explode("\n", $block);
+                $cleanedLines = array_map('trim', $lines);
+                $trimmedBlock = implode("\n", $cleanedLines);
+
+                if (mb_strlen(str_replace("\n", "", $trimmedBlock)) > 15) {
+                    $poem[] = $trimmedBlock;
+                }
             }
         }
 

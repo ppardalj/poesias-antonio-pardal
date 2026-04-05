@@ -26,7 +26,9 @@ donde dan tan excelso nombramiento,
 (que cercano presiento),
 y el examen que tengo que aprobar,
 
+
 pues si yo no consigo tal contento,
 me parece que voy a claudicar,
 (y habré de renunciar),
 largándome a otro sitio a tomar viento.
+

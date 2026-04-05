@@ -17,9 +17,13 @@ insertas entre un polvo luminoso
 de infinita e inacabable trabazón,
 donde el tiempo y el espacio ya no existen...
 
+Y me digo, ¿Qué soy yo?
+
 ¿Dónde está mi parecido con el Dios que me dicen que ha hecho esto?
 ¿No seré más bien un modesto transmisor,
 de la vida que, pletórica, rebosa el Universo?
+
+Es verdad que no soy nada...
 
 Pero pienso, gimo, río, soy feliz o desdichado,
 amo mucho y me apena contemplar
@@ -35,6 +39,8 @@ Pero ellos ¿son conscientes de su ego, como yo soy de mi mente?
 ¡Mas si Gaia es también una mota diminuta...!
 ¿Y si Gaia o Amalur es la ínfima neurona de una inmensa inteligencia?
 
+No lo entiendo...
+
 Y mientras más se marchita el envoltorio de mis genes, que es mi cuerpo,
 menos sé la razón de todo esto.
 
@@ -44,6 +50,10 @@ y de éstos van pasando poco a poco hacia los nietos.
 
 Pero sigo en la ignorancia del por qué de todo esto....
 
+Ya he cumplido mi misión.
+
 Soy un pobre cascarón envejecido...
+
+Los que mandan son los genes.
 
 ¿Sabrán ellos los motivos de esta eterna evolución...?

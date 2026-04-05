@@ -8,6 +8,8 @@ date: 2007-07-02
 
 # PUTADAS
 
+DESENGAÑO DE LAS MUJERES
+
 Puto es el hombre que de putas fía,
 y puto el que sus gustos apetece,
 puto es el estipendio que se ofrece
@@ -25,6 +27,10 @@ y como puto muera yo quemado,
 si de otras tales putas me pagare;
 porque las putas graves son costosas,
 y las putillas viles, afrentosas.
+
+Autor:Francisco de Quevedo
+
+DESENGAÑO DE LA POESÍA
 
 Puto es aquel que ahora te escarnece
 llamando a lo que escribe poesía

@@ -14,6 +14,10 @@ en el cesped del jardín,
 envueltos por el aroma
 de aquel frondoso jazmín?
 
+¿Tan pronto la has olvidado?
+
+¡Que poca memoria tienes!
+
 ¿No recuerdas nuestras lenguas
 jugueteando entre sí,
 mientras tu cuerpo adorable
@@ -29,6 +33,12 @@ que con tus uñas me hiciste
 y el bocado que en mi labio,
 sin contenerte me diste?
 
+¡Que poca memoria tienes!
+
+¡No te comprendo, mujer!
+
+¡No entiendo tu gran olvido!
+
 ¿Cómo me dices ahora,
 que entre nosotros no hay nada?
 ¡Si yo no puedo olvidar
@@ -38,6 +48,8 @@ cada poro de tu cara!
 recordando tus suspiros!
 ¿Por qué me dices ahora
 que es falso lo que yo digo?
+
+¡Que poca memoria tienes!
 
 Pero por más que lo niegues
 yo sé que tú fuiste mía,

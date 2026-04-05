@@ -97,6 +97,7 @@ Conocelos con presteza,
 pues son, por su gran belleza,
 orgullo de Andalucía.
 
+
 Cuna de América fuiste
 cuando a Colón cobijaste
 el día en que lo amparaste,
@@ -114,6 +115,7 @@ el querer mas grande mío:
 La por todos adorada,
 la que en Cielo y tierra impera
 ¡La Señora del Rocío...!
+
 
 ¿Desierto? ¿Naranjos? ¿Flores?
 ¿Playas con cuerpos desnudos?
@@ -133,6 +135,7 @@ Y, abajo, mi enamorada,
 la bellísima Almería,
 ¡La rosa de Andalucía!
 
+
 No hay duda que mi Sevilla
 por su aroma y su belleza,
 de la tierra y su grandeza
@@ -150,3 +153,4 @@ rodeado de sus flores!
 ¡Bendita sea la alegría
 que en mi pecho yo sentí,
 Sevilla de mis amores...!
+

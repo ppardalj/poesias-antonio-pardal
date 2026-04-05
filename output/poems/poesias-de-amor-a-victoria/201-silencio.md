@@ -7,6 +7,10 @@ category: poesias-de-amor-a-victoria
 
 # SILENCIO
 
+SILENCIO. En gaita gallega.
+
+Rima asonante, continua
+
 Ese silencio que guarda tu boca
 cuando diriges a mí tu mirada
 llena mi pecho de hermosas cantatas
@@ -24,3 +28,4 @@ tus bellos ojos destilan su aroma,
 y me transmiten, sin una palabra,
 la gran ternura y amor que atesoras
 mientras tu voz permanece callada!.
+

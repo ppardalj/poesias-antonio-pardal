@@ -50,3 +50,5 @@ de todas maneras?
 ¡No inventéis mas dioses que alienten batallas!
 Que el Ser infinito que alivia el dolor
 no va predicando matanzas canallas...
+
+¡¡Es Dios del Amor!!

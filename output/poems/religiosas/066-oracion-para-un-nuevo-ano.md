@@ -7,6 +7,8 @@ category: religiosas
 
 # ORACIÓN PARA UN NUEVO AÑO
 
+ORACIÓN PARA UN NUEVO AÑO
+
 Señor: Yo, en la alborada de este año,
 quisiera ser como la nieve blanca,
 con pureza en que no exista el engaño,

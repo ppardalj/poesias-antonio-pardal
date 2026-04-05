@@ -7,6 +7,8 @@ category: tristezas
 
 # AFUERA ERA DE NOCHE
 
+AFUERA ERA DE NOCHE
+
 Afuera era de noche.
 La escarcha refulgía en la pradera
 con bellos tornasoles plateados.

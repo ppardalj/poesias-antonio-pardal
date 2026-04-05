@@ -8,6 +8,8 @@ date: 2007-01-25
 
 # LA QUERIDA
 
+Un poquito machista
+
 Mujer, me estás jurando amor eterno
 y aparte vas diciendo que, aburrida,
 no me aguantas ya más en esta vida,

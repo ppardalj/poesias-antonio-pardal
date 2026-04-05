@@ -7,6 +7,8 @@ category: poesias-de-amor-a-victoria
 
 # GORRIÓN (EN GAITA GALLEGA)
 
+GORRIÓN. En gaita gallega.
+
 Oh, gorrioncillo que, humilde, gorjeas
 en la enramada del arbol más alto,
 cuida tu vida del bravo milano
@@ -24,3 +26,4 @@ y vete pronto al zarzal más tupido.
 Y desde él, si ya ves que te olvidan,
 sigue entonando tus bellos arrullos
 para la amada a quien lanzas tus trinos.
+

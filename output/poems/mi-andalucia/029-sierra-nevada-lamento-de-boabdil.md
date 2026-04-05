@@ -33,10 +33,12 @@ Lugares maravillosos
 llenos de embrujo y encanto,
 que al recordarme tus besos
 cubren mi rostro de llanto.
+
 Cuando nace la alborada
 y reverdece el paisaje,
 no puedo olvidar tu cara
 bonita de abencerraje.
+
 Los senderos de la sierra
 pintados de mil colores,
 me recuerdan tu belleza,

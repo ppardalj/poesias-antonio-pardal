@@ -7,6 +7,8 @@ category: religiosas
 
 # EL AMOR VERDADERO
 
+EL AMOR VERDADERO
+
 El verdadero amor no es absorbente
 Tampoco es placentero ni egoísta.
 El amor en su esencia es idealista

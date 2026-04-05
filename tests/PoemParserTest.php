@@ -113,18 +113,18 @@ class PoemParserTest extends TestCase
         $html = '<html><head><title>Poem</title></head><body>
             <div align="left">
                 <p align="center"><strong>
-                    Verse 1<br>
-                    Verse 2<br>
+                    Verse 1 of the first stanza long enough<br>
+                    Verse 2 of the first stanza long enough<br>
                     <br>
-                    Verse 3 extra text for length
+                    Verse 3 of the second stanza long enough
                 </strong></p>
             </div>
         </body></html>';
         
         $output = $this->parser->parse($html);
         
-        // Verses should be separated by \n, no double \n inside stanza
-        $this->assertStringContainsString("Verse 1\nVerse 2\nVerse 3 extra text for length", $output);
+        // Verses should be separated by \n, and if there is a double <br>, they should be in different stanzas (double \n)
+        $this->assertStringContainsString("Verse 1 of the first stanza long enough\nVerse 2 of the first stanza long enough\n\nVerse 3 of the second stanza long enough", $output);
     }
 
     public function testStanzasSeparatedByDoubleNewline(): void
@@ -201,5 +201,41 @@ class PoemParserTest extends TestCase
         $output = $this->parser->parse($html);
         
         $this->assertStringContainsString("Pústula purulenta que me acosas\nlas entrañas. ¿Por qué me vas matando\npoco a poco? ¿Por qué vas destrozando\nmis campos, mis espigas y mis rosas?", $output);
+    }
+
+    public function testStanzasInSameParagraphSeparatedByDoubleBr(): void
+    {
+        $html = '<html><head><title>Test Poem</title></head><body>
+            <p align="center"><strong>
+                Line 1 of the first stanza long enough<br>
+                Line 2 of the first stanza long enough<br>
+                <br>
+                Line 3 of the second stanza long enough<br>
+                Line 4 of the second stanza long enough
+            </strong></p>
+        </body></html>';
+
+        $output = $this->parser->parse($html);
+        
+        // Debe contener un salto de línea doble entre las estrofas
+        $this->assertStringContainsString("Line 1 of the first stanza long enough\nLine 2 of the first stanza long enough\n\nLine 3 of the second stanza long enough\nLine 4 of the second stanza long enough", $output);
+    }
+
+    public function testShouldNotFilterShortLastStanza(): void
+    {
+        $html = '<html><head><title>Test Poem</title></head><body>
+            <p align="center"><strong>
+                Line 1 of the first stanza long enough<br>
+                Line 2 of the first stanza long enough<br>
+                <br>
+                This stanza is short
+            </strong></p>
+        </body></html>';
+
+        $output = $this->parser->parse($html);
+        
+        // "This stanza is short" has 20 characters, which is < 30.
+        // It should be present in the output.
+        $this->assertStringContainsString("This stanza is short", $output);
     }
 }

@@ -7,6 +7,7 @@ category: tristezas
 
 # Y GRITARÁS...
 
+
 Y gritarás con miedo
 al ver a los humanos
 luchando con fiereza

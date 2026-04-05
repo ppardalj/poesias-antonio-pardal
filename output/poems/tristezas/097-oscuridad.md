@@ -26,6 +26,7 @@ Pero una paz extraña,
 que te mataba el alma,
 plagada de amargura...
 
+
 ¡Hasta la misma Luna del cielo se había ido,
 dejando el firmamento sin su plateada luz!
 ¡Ay, maladada noche que nunca terminaba,
@@ -51,3 +52,5 @@ naciendo un nuevo día platórico de luz...
 Yo sé que habrá un instante en que esta pesadilla
 sin duda, acabará...
 y llegado el momento de una nueva alborada
+
+¡El amor triunfará...!

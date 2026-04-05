@@ -8,6 +8,7 @@ date: 2007-10-21
 
 # MEMORIA HISTÓRICA
 
+
 Yo padecía alzheimer de una guerra
 fratricida. Tenía ya olvidada
 una lucha entre hermanos, malhadada,

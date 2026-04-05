@@ -20,6 +20,8 @@ de ese príncipe azul enamorado.
 Y mientras en tus sueños fantaseas
 con amores que nunca serán tuyos,
 yo esperándote a ti sigo paciente,
+
 soñando en que despierta por fin seas
 piadosa con mis cálidos arrullos
 y alivies el dolor que mi alma siente.
+

@@ -67,3 +67,4 @@ Curado el corazón de tantas penas
 escuchando tan plácidas palabras
 alabó en su agonía al Hacedor,
 y fue a morir allí, donde lo amaban...
+

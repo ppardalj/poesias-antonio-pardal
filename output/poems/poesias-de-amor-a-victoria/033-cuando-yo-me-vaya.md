@@ -7,6 +7,8 @@ category: poesias-de-amor-a-victoria
 
 # CUANDO YO ME VAYA
 
+CUANDO YO ME VAYA
+
 Cuando yo me vaya,
 no llores siquiera un minuto.
 Coge mis cenizas y marchate al mar.
@@ -38,3 +40,4 @@ gozosos veremos
 la vida que unidos supimos crear,
 ese hijo bendito en quien viviremos...
 allí... junto al mar...
+

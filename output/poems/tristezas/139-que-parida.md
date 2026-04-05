@@ -7,11 +7,14 @@ category: tristezas
 
 # ¡QUE PARIDA...!
 
+Y alienado, río....
+
 Y a veces hasta canto y parezco feliz...
 Y compongo, arrogante, protervas poesías,
 que a mí me se me figuran dechados de armonía...
 
 Y sueño con bellezas infinitas.
+
 Y busco tenazmente lo hermoso de la vida...
 Pues es lugar común que la vida es muy bella.
 ¡Lo demuestran las flores, el mar y las estrellas...!
@@ -22,7 +25,10 @@ Pues es lugar común que la vida es muy bella.
 
 Mas sonrío, pues dicen
 que en este triste mundo, hay que ser positivo.
+
 Pero a veces pregunto...
+
+¿Ser positivo, qué es?
 
 ¿Gozar en un entorno de males y penurias?
 ¿Decir que todo es bueno, aunque apeste a lujuria?
@@ -37,3 +43,5 @@ Aunque, triste, mi alma, gima y llore por dentro...
 Pero quieranlo o no, allá, en lo más profundo,
 si alguno repitiese que es hermosa la vida,
 mi mente gritará con desprecio rotundo...
+
+¡¡Que parida...!!

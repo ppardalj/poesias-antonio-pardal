@@ -24,6 +24,7 @@ a aquellas cigüeñas, que con picos largos
 junto a las matracas, lúgubres sonaban
 tañendo a tristeza con sones macabros.
 
+
 Dios estaba muerto y nadie cantaba.
 Sólo por la noche, bajo un gran silencio,
 y todas las luces del pueblo apagadas,
@@ -33,3 +34,4 @@ solemne, grandioso, cruzaba mi pueblo,
 un largo desfile de ocultos fantasmas,
 portando en la urna de carey y plata,
 a Dios, nuestro Padre, en su Santo Entierro.
+

@@ -16,6 +16,7 @@ Subiendo por estepas infinitas
 situadas a millones de años luz.
 Tratando de observar entre los astros,
 la materia que existe y es oscura.
+
 Contemplándose a sí mismo intentando descubrir
 el arcano que aún ignora y lo hunde en la locura...
 
